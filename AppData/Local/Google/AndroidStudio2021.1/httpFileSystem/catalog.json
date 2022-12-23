@@ -274,6 +274,12 @@
       "url": "https://www.asyncapi.com/schema-store/all.schema-store.json"
     },
     {
+      "name": "AsyncAPI Tool File",
+      "description": "A JSON Schema for validating AsyncAPI tool files",
+      "fileMatch": [".asyncapi-tool"],
+      "url": "https://raw.githubusercontent.com/asyncapi/website/master/scripts/tools/tools-schema.json"
+    },
+    {
       "name": "Avro Avsc",
       "description": "Avro Schema Avsc file",
       "fileMatch": ["*.avsc"],
@@ -817,6 +823,12 @@
       "description": "Google Apps Script CLI project file",
       "fileMatch": [".clasp.json"],
       "url": "https://json.schemastore.org/clasp.json"
+    },
+    {
+      "name": "clangd",
+      "description": "Clang language server daemon",
+      "fileMatch": [".clangd", ".clangd.yml", ".clangd.yaml"],
+      "url": "https://json.schemastore.org/clangd.json"
     },
     {
       "name": "cloudify",
@@ -2622,6 +2634,12 @@
         ".readthedocs.yaml"
       ],
       "url": "https://raw.githubusercontent.com/readthedocs/readthedocs.org/master/readthedocs/rtd_tests/fixtures/spec/v2/schema.json"
+    },
+    {
+      "name": "Pulumi",
+      "description": "JSON schema for Pulumi project metadata and configuration",
+      "fileMatch": ["Pulumi.yaml", "pulumi.yaml"],
+      "url": "https://json.schemastore.org/pulumi.json"
     },
     {
       "name": "PyProject",

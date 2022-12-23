@@ -1,13 +1,20 @@
-2022/12/17-14:03:54.271 4ae0 Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ncofboiocffjkalpioalmjapghjhnfbe/MANIFEST-000001
-2022/12/17-14:03:54.272 4ae0 Recovering log #944
-2022/12/17-14:03:54.282 4ae0 Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ncofboiocffjkalpioalmjapghjhnfbe/000944.log 
-2022/12/17-15:12:22.563 c78 Level-0 table #948: started
-2022/12/17-15:12:22.579 c78 Level-0 table #948: 1240399 bytes OK
-2022/12/17-15:12:22.581 c78 Delete type=0 #944
-2022/12/17-19:31:13.004 8b4 Compacting 2@0 + 1@1 files
-2022/12/17-19:31:13.045 8b4 Generated table #949@0: 7 keys, 894986 bytes
-2022/12/17-19:31:13.045 8b4 Compacted 2@0 + 1@1 files => 894986 bytes
-2022/12/17-19:31:13.046 8b4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/12/17-19:31:13.047 8b4 Delete type=2 #943
-2022/12/17-19:31:13.047 8b4 Delete type=2 #945
-2022/12/17-19:31:13.047 8b4 Delete type=2 #948
+2022/12/22-21:17:16.068 2fc Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ncofboiocffjkalpioalmjapghjhnfbe/MANIFEST-000001
+2022/12/22-21:17:16.069 2fc Recovering log #980
+2022/12/22-21:17:16.079 2fc Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ncofboiocffjkalpioalmjapghjhnfbe/000980.log 
+2022/12/23-09:59:32.147 1584 Compacting 3@0 + 1@1 files
+2022/12/23-09:59:32.173 1584 Generated table #983@0: 7 keys, 799840 bytes
+2022/12/23-09:59:32.173 1584 Compacted 3@0 + 1@1 files => 799840 bytes
+2022/12/23-09:59:32.174 1584 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/23-09:59:32.175 1584 Delete type=2 #974
+2022/12/23-09:59:32.175 1584 Delete type=2 #977
+2022/12/23-09:59:32.175 1584 Delete type=2 #979
+2022/12/23-09:59:32.176 1584 Delete type=2 #981
+2022/12/23-10:59:39.065 1140 Level-0 table #985: started
+2022/12/23-10:59:39.106 1140 Level-0 table #985: 1514577 bytes OK
+2022/12/23-10:59:39.109 1140 Delete type=0 #980
+2022/12/23-15:51:38.356 3ec4 Compacting 1@0 + 1@1 files
+2022/12/23-15:51:38.398 3ec4 Generated table #986@0: 7 keys, 894115 bytes
+2022/12/23-15:51:38.398 3ec4 Compacted 1@0 + 1@1 files => 894115 bytes
+2022/12/23-15:51:38.399 3ec4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/23-15:51:38.400 3ec4 Delete type=2 #983
+2022/12/23-15:51:38.400 3ec4 Delete type=2 #985

@@ -1,27 +1,18 @@
-2022/12/15-16:30:14.453 720 Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Session Storage/MANIFEST-000001
-2022/12/15-16:30:14.456 720 Recovering log #1098
-2022/12/15-16:30:14.459 720 Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Session Storage/001098.log 
-2022/12/15-16:55:02.420 3e4c Level-0 table #1102: started
-2022/12/15-16:55:02.430 3e4c Level-0 table #1102: 24447 bytes OK
-2022/12/15-16:55:02.432 3e4c Delete type=0 #1098
-2022/12/15-20:03:56.324 1564 Level-0 table #1104: started
-2022/12/15-20:03:56.334 1564 Level-0 table #1104: 17262 bytes OK
-2022/12/15-20:03:56.336 1564 Delete type=0 #1101
-2022/12/15-20:03:56.337 1564 Compacting 4@0 + 1@1 files
-2022/12/15-20:03:56.407 1564 Generated table #1105@0: 60529 keys, 1431572 bytes
-2022/12/15-20:03:56.407 1564 Compacted 4@0 + 1@1 files => 1431572 bytes
-2022/12/15-20:03:56.409 1564 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/12/15-20:03:56.410 1564 Delete type=2 #1095
-2022/12/15-20:03:56.411 1564 Delete type=2 #1097
-2022/12/15-20:03:56.411 1564 Delete type=2 #1099
-2022/12/15-20:03:56.411 1564 Delete type=2 #1102
-2022/12/15-20:03:56.411 1564 Delete type=2 #1104
-2022/12/16-10:20:10.386 425c Level-0 table #1107: started
-2022/12/16-10:20:10.391 425c Level-0 table #1107: 19020 bytes OK
-2022/12/16-10:20:10.393 425c Delete type=0 #1103
-2022/12/16-14:10:29.925 2900 Level-0 table #1109: started
-2022/12/16-14:10:29.931 2900 Level-0 table #1109: 21858 bytes OK
-2022/12/16-14:10:29.933 2900 Delete type=0 #1106
-2022/12/17-12:39:24.525 3040 Level-0 table #1111: started
-2022/12/17-12:39:24.531 3040 Level-0 table #1111: 17450 bytes OK
-2022/12/17-12:39:24.538 3040 Delete type=0 #1108
+2022/12/21-17:18:39.330 26ac Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Session Storage/MANIFEST-000001
+2022/12/21-17:18:39.333 26ac Recovering log #1153
+2022/12/21-17:18:39.335 26ac Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Session Storage/001153.log 
+2022/12/21-18:29:49.033 53e0 Level-0 table #1157: started
+2022/12/21-18:29:49.039 53e0 Level-0 table #1157: 18189 bytes OK
+2022/12/21-18:29:49.042 53e0 Delete type=0 #1153
+2022/12/22-14:01:39.382 54f8 Level-0 table #1159: started
+2022/12/22-14:01:39.386 54f8 Level-0 table #1159: 15000 bytes OK
+2022/12/22-14:01:39.388 54f8 Delete type=0 #1156
+2022/12/22-14:01:39.389 54f8 Compacting 4@0 + 1@1 files
+2022/12/22-14:01:39.463 54f8 Generated table #1160@0: 64053 keys, 1520074 bytes
+2022/12/22-14:01:39.463 54f8 Compacted 4@0 + 1@1 files => 1520074 bytes
+2022/12/22-14:01:39.464 54f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/22-14:01:39.465 54f8 Delete type=2 #1150
+2022/12/22-14:01:39.465 54f8 Delete type=2 #1152
+2022/12/22-14:01:39.465 54f8 Delete type=2 #1154
+2022/12/22-14:01:39.465 54f8 Delete type=2 #1157
+2022/12/22-14:01:39.465 54f8 Delete type=2 #1159

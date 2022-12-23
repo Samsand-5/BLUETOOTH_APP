@@ -1,18 +1,33 @@
-2022/12/17-14:03:49.238 2924 Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Session Storage/MANIFEST-000001
-2022/12/17-14:03:49.240 2924 Recovering log #1110
-2022/12/17-14:03:49.241 2924 Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Session Storage/001110.log 
-2022/12/17-16:58:00.836 2f14 Level-0 table #1114: started
-2022/12/17-16:58:00.838 2f14 Level-0 table #1114: 19591 bytes OK
-2022/12/17-16:58:00.840 2f14 Delete type=0 #1110
-2022/12/17-16:58:00.840 2f14 Compacting 4@0 + 1@1 files
-2022/12/17-16:58:00.883 2f14 Generated table #1115@0: 61340 keys, 1457155 bytes
-2022/12/17-16:58:00.883 2f14 Compacted 4@0 + 1@1 files => 1457155 bytes
-2022/12/17-16:58:00.884 2f14 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/12/17-16:58:00.885 2f14 Delete type=2 #1105
-2022/12/17-16:58:00.885 2f14 Delete type=2 #1107
-2022/12/17-16:58:00.885 2f14 Delete type=2 #1109
-2022/12/17-16:58:00.885 2f14 Delete type=2 #1111
-2022/12/17-16:58:00.886 2f14 Delete type=2 #1114
-2022/12/17-21:18:15.099 13c Level-0 table #1117: started
-2022/12/17-21:18:15.103 13c Level-0 table #1117: 17984 bytes OK
-2022/12/17-21:18:15.106 13c Delete type=0 #1113
+2022/12/22-21:17:16.532 e50 Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Session Storage/MANIFEST-000001
+2022/12/22-21:17:16.533 e50 Recovering log #1158
+2022/12/22-21:17:16.534 e50 Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Session Storage/001158.log 
+2022/12/22-21:53:14.418 2f48 Level-0 table #1163: started
+2022/12/22-21:53:14.426 2f48 Level-0 table #1163: 62825 bytes OK
+2022/12/22-21:53:14.428 2f48 Delete type=0 #1158
+2022/12/22-21:53:32.128 4ab8 Level-0 table #1165: started
+2022/12/22-21:53:32.132 4ab8 Level-0 table #1165: 35454 bytes OK
+2022/12/22-21:53:32.134 4ab8 Delete type=0 #1162
+2022/12/22-21:54:40.562 2f48 Level-0 table #1167: started
+2022/12/22-21:54:40.569 2f48 Level-0 table #1167: 37089 bytes OK
+2022/12/22-21:54:40.571 2f48 Delete type=0 #1164
+2022/12/22-21:55:10.378 4ab8 Level-0 table #1169: started
+2022/12/22-21:55:10.387 4ab8 Level-0 table #1169: 52287 bytes OK
+2022/12/22-21:55:10.389 4ab8 Delete type=0 #1166
+2022/12/22-21:55:10.390 4ab8 Compacting 4@0 + 1@1 files
+2022/12/22-21:55:10.468 4ab8 Generated table #1170@0: 64272 keys, 1627511 bytes
+2022/12/22-21:55:10.468 4ab8 Compacted 4@0 + 1@1 files => 1627511 bytes
+2022/12/22-21:55:10.469 4ab8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/22-21:55:10.470 4ab8 Delete type=2 #1160
+2022/12/22-21:55:10.470 4ab8 Delete type=2 #1163
+2022/12/22-21:55:10.470 4ab8 Delete type=2 #1165
+2022/12/22-21:55:10.470 4ab8 Delete type=2 #1167
+2022/12/22-21:55:10.470 4ab8 Delete type=2 #1169
+2022/12/23-10:45:10.595 309c Level-0 table #1172: started
+2022/12/23-10:45:10.601 309c Level-0 table #1172: 17679 bytes OK
+2022/12/23-10:45:10.603 309c Delete type=0 #1168
+2022/12/23-11:20:28.709 4e48 Level-0 table #1174: started
+2022/12/23-11:20:28.712 4e48 Level-0 table #1174: 19424 bytes OK
+2022/12/23-11:20:28.713 4e48 Delete type=0 #1171
+2022/12/23-15:27:19.723 56d8 Level-0 table #1176: started
+2022/12/23-15:27:19.730 56d8 Level-0 table #1176: 13604 bytes OK
+2022/12/23-15:27:19.733 56d8 Delete type=0 #1173

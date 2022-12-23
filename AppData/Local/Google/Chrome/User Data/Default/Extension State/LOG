@@ -1,3 +1,15 @@
-2022/12/17-14:03:47.348 4aa4 Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Extension State/MANIFEST-000001
-2022/12/17-14:03:47.349 4aa4 Recovering log #42
-2022/12/17-14:03:47.354 4aa4 Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Extension State/000042.log 
+2022/12/22-21:17:15.409 2fc Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Extension State/MANIFEST-000001
+2022/12/22-21:17:15.409 2fc Recovering log #42
+2022/12/22-21:17:15.427 2fc Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Extension State/000042.log 
+2022/12/22-21:29:32.113 35a8 Level-0 table #46: started
+2022/12/22-21:29:32.137 35a8 Level-0 table #46: 420624 bytes OK
+2022/12/22-21:29:32.139 35a8 Delete type=0 #42
+2022/12/22-21:29:32.141 35a8 Compacting 4@0 + 1@1 files
+2022/12/22-21:29:32.188 35a8 Generated table #47@0: 5 keys, 690 bytes
+2022/12/22-21:29:32.188 35a8 Compacted 4@0 + 1@1 files => 690 bytes
+2022/12/22-21:29:32.189 35a8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/22-21:29:32.190 35a8 Delete type=2 #34
+2022/12/22-21:29:32.190 35a8 Delete type=2 #37
+2022/12/22-21:29:32.190 35a8 Delete type=2 #40
+2022/12/22-21:29:32.190 35a8 Delete type=2 #43
+2022/12/22-21:29:32.190 35a8 Delete type=2 #46
