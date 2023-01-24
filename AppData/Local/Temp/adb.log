@@ -139,3 +139,801 @@ adb I 12-23 15:42:48 12056 14376 transport.cpp:404] BlockingConnectionAdapter(em
 adb I 12-23 15:42:48 12056 14376 transport.cpp:422] BlockingConnectionAdapter(emulator-5554): stopped
 adb I 12-23 15:42:49 12056 14376 transport.cpp:291] BlockingConnectionAdapter(emulator-5554): destructing
 adb I 12-23 15:42:49 12056 14376 transport.cpp:397] BlockingConnectionAdapter(emulator-5554): already stopped
+adb server killed by remote request
+--- adb starting (pid 724) ---
+adb I 01-02 21:05:49   724 15516 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-02 21:05:49   724 15516 main.cpp:63] Version 33.0.1-8253317
+adb I 01-02 21:05:49   724 15516 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-02 21:05:49   724 15516 main.cpp:63] 
+adb I 01-02 21:05:49   724 15516 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-02 21:05:49   724 15516 auth.cpp:417] adb_auth_init...
+adb I 01-02 21:05:49   724 15516 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-02 21:05:49   724 15516 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-02 21:05:49   724 15516 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-02 21:05:49   724 15516 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-02 21:05:49   724 15516 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-02 21:05:49   724 15516 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-02 21:05:49   724 15516 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-02 21:05:49   724 15516 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-02 21:05:49   724 15516 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-02 21:05:49   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:05:49   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:05:49   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:05:50   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:05:50   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:05:50   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:05:52   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:05:52   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:05:52   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:05:56   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:05:56   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:05:56   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:06:04   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:06:04   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:06:04   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:06:20   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:06:20   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:06:20   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:06:52   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:06:52   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:06:52   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:07:56   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:07:56   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:07:56   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:10:04   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:10:04   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:10:04   724 15516 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 11328) ---
+adb I 01-02 21:29:31 11328  9232 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-02 21:29:31 11328  9232 main.cpp:63] Version 33.0.1-8253317
+adb I 01-02 21:29:31 11328  9232 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-02 21:29:31 11328  9232 main.cpp:63] 
+adb I 01-02 21:29:31 11328  9232 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-02 21:29:31 11328  9232 auth.cpp:417] adb_auth_init...
+adb I 01-02 21:29:31 11328  9232 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-02 21:29:31 11328  9232 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-02 21:29:31 11328  9232 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-02 21:29:31 11328  9232 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-02 21:29:31 11328  9232 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-02 21:29:31 11328  9232 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-02 21:29:31 11328  9232 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-02 21:29:31 11328  9232 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-02 21:29:31 11328  9232 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-02 21:29:31 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:31 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:31 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:32 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:32 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:32 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:34 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:34 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:34 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:38 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:38 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:38 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:46 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:46 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:29:46 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:30:02 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:30:02 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:30:02 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:30:34 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:30:34 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:30:34 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:31:38 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:31:38 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:31:38 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:33:46 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:33:46 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:33:46 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:38:02 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:38:02 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-02 21:38:02 11328  9232 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 15408) ---
+adb I 01-03 19:32:41 15408  4072 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-03 19:32:41 15408  4072 main.cpp:63] Version 33.0.1-8253317
+adb I 01-03 19:32:41 15408  4072 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-03 19:32:41 15408  4072 main.cpp:63] 
+adb I 01-03 19:32:41 15408  4072 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-03 19:32:41 15408  4072 auth.cpp:417] adb_auth_init...
+adb I 01-03 19:32:41 15408  4072 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-03 19:32:41 15408  4072 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-03 19:32:41 15408  4072 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-03 19:32:41 15408  4072 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-03 19:32:41 15408  4072 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-03 19:32:41 15408  4072 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-03 19:32:41 15408  4072 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-03 19:32:41 15408  4072 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-03 19:32:41 15408  4072 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-03 19:32:41 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:41 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:41 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:42 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:42 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:42 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:44 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:44 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:44 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:48 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:48 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:48 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:56 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:56 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:32:56 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:33:12 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:33:12 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:33:12 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:33:44 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:33:44 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:33:44 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:34:48 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:34:48 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:34:48 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:36:56 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:36:56 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:36:56 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:41:12 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:41:12 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-03 19:41:12 15408  4072 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 21432) ---
+adb I 01-04 13:22:03 21432 21392 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-04 13:22:03 21432 21392 main.cpp:63] Version 33.0.1-8253317
+adb I 01-04 13:22:03 21432 21392 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-04 13:22:03 21432 21392 main.cpp:63] 
+adb I 01-04 13:22:03 21432 21392 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-04 13:22:03 21432 21392 auth.cpp:417] adb_auth_init...
+adb I 01-04 13:22:03 21432 21392 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-04 13:22:03 21432 21392 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-04 13:22:03 21432 21392 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-04 13:22:03 21432 21392 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-04 13:22:03 21432 21392 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-04 13:22:03 21432 21392 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-04 13:22:03 21432 21392 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-04 13:22:03 21432 21392 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-04 13:22:03 21432 21392 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-04 13:22:03 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:03 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:03 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:04 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:04 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:04 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:06 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:06 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:06 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:10 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:10 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:10 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:18 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:18 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:18 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:34 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:34 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:22:34 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:23:06 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:23:06 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:23:06 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:24:10 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:24:10 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:24:10 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:26:18 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:26:18 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:26:18 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:30:34 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:30:34 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:30:34 21432 21392 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 17820) ---
+adb I 01-04 13:31:23 17820 20520 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-04 13:31:23 17820 20520 main.cpp:63] Version 33.0.1-8253317
+adb I 01-04 13:31:23 17820 20520 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-04 13:31:23 17820 20520 main.cpp:63] 
+adb I 01-04 13:31:23 17820 20520 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-04 13:31:23 17820 20520 auth.cpp:417] adb_auth_init...
+adb I 01-04 13:31:23 17820 20520 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-04 13:31:23 17820 20520 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-04 13:31:23 17820 20520 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-04 13:31:23 17820 20520 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-04 13:31:23 17820 20520 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-04 13:31:23 17820 20520 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-04 13:31:23 17820 20520 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-04 13:31:23 17820 20520 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-04 13:31:23 17820 20520 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-04 13:31:23 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:23 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:23 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:24 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:24 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:24 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:26 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:26 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:26 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:30 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:30 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:30 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:38 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:38 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:38 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:54 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:54 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:31:54 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:32:26 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:32:26 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:32:26 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:33:30 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:33:30 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:33:30 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:38 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:38 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:38 17820 20520 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 16436) ---
+adb I 01-04 13:35:41 16436 13048 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-04 13:35:41 16436 13048 main.cpp:63] Version 33.0.1-8253317
+adb I 01-04 13:35:41 16436 13048 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-04 13:35:41 16436 13048 main.cpp:63] 
+adb I 01-04 13:35:41 16436 13048 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-04 13:35:41 16436 13048 auth.cpp:417] adb_auth_init...
+adb I 01-04 13:35:41 16436 13048 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-04 13:35:41 16436 13048 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-04 13:35:41 16436 13048 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-04 13:35:41 16436 13048 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-04 13:35:41 16436 13048 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-04 13:35:41 16436 13048 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-04 13:35:41 16436 13048 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-04 13:35:41 16436 13048 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-04 13:35:41 16436 13048 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-04 13:35:41 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:41 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:41 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:42 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:42 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:42 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:44 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:44 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:44 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:48 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:48 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:48 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:56 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:56 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:35:56 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:36:12 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:36:12 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:36:12 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:36:44 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:36:44 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 13:36:44 16436 13048 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 9044) ---
+adb I 01-04 19:55:49  9044 11684 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-04 19:55:49  9044 11684 main.cpp:63] Version 33.0.1-8253317
+adb I 01-04 19:55:49  9044 11684 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-04 19:55:49  9044 11684 main.cpp:63] 
+adb I 01-04 19:55:49  9044 11684 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-04 19:55:49  9044 11684 auth.cpp:417] adb_auth_init...
+adb I 01-04 19:55:49  9044 11684 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-04 19:55:49  9044 11684 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-04 19:55:49  9044 11684 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-04 19:55:49  9044 11684 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-04 19:55:49  9044 11684 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-04 19:55:49  9044 11684 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-04 19:55:49  9044 11684 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-04 19:55:49  9044 11684 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-04 19:55:49  9044 11684 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-04 19:55:49  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:55:49  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:55:49  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:55:50  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:55:50  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:55:50  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:55:52  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:55:52  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:55:52  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:55:56  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:55:56  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:55:56  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:56:04  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:56:04  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:56:04  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:56:20  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:56:20  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:56:20  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:56:52  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:56:52  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:56:52  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:57:56  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:57:56  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 19:57:56  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 20:00:04  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 20:00:04  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-04 20:00:04  9044 11684 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 21064) ---
+adb I 01-10 17:22:13 21064 17876 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-10 17:22:13 21064 17876 main.cpp:63] Version 33.0.1-8253317
+adb I 01-10 17:22:13 21064 17876 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-10 17:22:13 21064 17876 main.cpp:63] 
+adb I 01-10 17:22:13 21064 17876 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-10 17:22:13 21064 17876 auth.cpp:417] adb_auth_init...
+adb I 01-10 17:22:13 21064 17876 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-10 17:22:13 21064 17876 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-10 17:22:13 21064 17876 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-10 17:22:13 21064 17876 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-10 17:22:13 21064 17876 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-10 17:22:13 21064 17876 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-10 17:22:13 21064 17876 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-10 17:22:13 21064 17876 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-10 17:22:13 21064 17876 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-10 17:22:14 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:14 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:14 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:15 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:15 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:15 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:17 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:17 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:17 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:21 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:21 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:21 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:29 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:29 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:29 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:45 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:45 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:22:45 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:23:17 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:23:17 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:23:17 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:23:47 21064 13480 transport.cpp:332] emulator-5554: read thread spawning
+adb I 01-10 17:23:47 21064 14892 transport.cpp:304] emulator-5554: write thread spawning
+adb I 01-10 17:23:54 21064 17876 adb.cpp:171] emulator-5554: already offline
+adb I 01-10 17:24:21 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:24:21 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:24:21 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:26:29 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:26:29 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:26:29 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:29:46 21064 13480 transport.cpp:336] emulator-5554: read failed: connection reset
+adb I 01-10 17:29:46 21064 13480 transport.cpp:1225] emulator-5554: connection terminated: read failed
+adb I 01-10 17:29:46 21064 17876 adb.cpp:175] emulator-5554: offline
+adb I 01-10 17:29:46 21064 17876 transport.cpp:910] destroying transport emulator-5554
+adb I 01-10 17:29:46 21064 17876 transport.cpp:404] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 01-10 17:29:46 21064 17876 transport.cpp:422] BlockingConnectionAdapter(emulator-5554): stopped
+adb I 01-10 17:29:46 21064 17876 transport.cpp:291] BlockingConnectionAdapter(emulator-5554): destructing
+adb I 01-10 17:29:46 21064 17876 transport.cpp:397] BlockingConnectionAdapter(emulator-5554): already stopped
+adb I 01-10 17:30:45 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:30:45 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:30:45 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:39:17 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:39:17 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:39:17 21064 17876 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-10 17:54:44 21064 11488 transport.cpp:332] emulator-5554: read thread spawning
+adb I 01-10 17:54:44 21064 14668 transport.cpp:304] emulator-5554: write thread spawning
+adb I 01-10 17:54:59 21064 17876 adb.cpp:171] emulator-5554: already offline
+adb I 01-10 17:59:30 21064 11488 transport.cpp:336] emulator-5554: read failed: connection reset
+adb I 01-10 17:59:30 21064 11488 transport.cpp:1225] emulator-5554: connection terminated: read failed
+adb I 01-10 17:59:30 21064 17876 adb.cpp:175] emulator-5554: offline
+adb I 01-10 17:59:30 21064 17876 transport.cpp:910] destroying transport emulator-5554
+adb I 01-10 17:59:30 21064 17876 transport.cpp:404] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 01-10 17:59:30 21064 17876 transport.cpp:422] BlockingConnectionAdapter(emulator-5554): stopped
+adb I 01-10 17:59:30 21064 17876 transport.cpp:291] BlockingConnectionAdapter(emulator-5554): destructing
+adb I 01-10 17:59:30 21064 17876 transport.cpp:397] BlockingConnectionAdapter(emulator-5554): already stopped
+adb W 01-10 17:59:31 21064 17876 sockets.cpp:279] timeout expired while flushing socket, closing
+adb server killed by remote request
+--- adb starting (pid 20500) ---
+adb I 01-12 17:52:47 20500 16280 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-12 17:52:47 20500 16280 main.cpp:63] Version 33.0.1-8253317
+adb I 01-12 17:52:47 20500 16280 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-12 17:52:47 20500 16280 main.cpp:63] 
+adb I 01-12 17:52:47 20500 16280 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-12 17:52:47 20500 16280 auth.cpp:417] adb_auth_init...
+adb I 01-12 17:52:47 20500 16280 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-12 17:52:47 20500 16280 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-12 17:52:47 20500 16280 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-12 17:52:47 20500 16280 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-12 17:52:47 20500 16280 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-12 17:52:47 20500 16280 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-12 17:52:47 20500 16280 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-12 17:52:47 20500 16280 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-12 17:52:47 20500 16280 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-12 17:52:48 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:52:48 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:52:48 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:52:49 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:52:49 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:52:49 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:52:51 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:52:51 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:52:51 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:52:55 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:52:55 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:52:55 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:53:03 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:53:03 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:53:03 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:53:19 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:53:19 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:53:19 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:53:51 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:53:51 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:53:51 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:54:55 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:54:55 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:54:55 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:57:03 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:57:03 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 17:57:03 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 18:01:19 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 18:01:19 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 18:01:19 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 18:09:51 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 18:09:51 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-12 18:09:51 20500 16280 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 12480) ---
+adb I 01-13 18:33:15 12480 19044 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-13 18:33:15 12480 19044 main.cpp:63] Version 33.0.1-8253317
+adb I 01-13 18:33:15 12480 19044 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-13 18:33:15 12480 19044 main.cpp:63] 
+adb I 01-13 18:33:15 12480 19044 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-13 18:33:15 12480 19044 auth.cpp:417] adb_auth_init...
+adb I 01-13 18:33:15 12480 19044 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-13 18:33:15 12480 19044 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-13 18:33:15 12480 19044 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-13 18:33:15 12480 19044 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-13 18:33:15 12480 19044 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-13 18:33:15 12480 19044 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-13 18:33:15 12480 19044 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-13 18:33:15 12480 19044 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-13 18:33:15 12480 19044 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-13 18:33:15 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:15 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:15 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:16 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:16 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:16 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:18 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:18 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:18 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:22 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:22 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:22 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:30 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:30 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:30 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:46 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:46 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:33:46 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:34:18 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:34:18 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:34:18 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:35:22 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:35:22 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:35:22 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:37:30 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:37:30 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:37:30 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:41:46 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:41:46 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:41:46 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:50:18 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:50:18 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-13 18:50:18 12480 19044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 16652) ---
+adb I 01-15 12:33:09 16652  2668 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-15 12:33:09 16652  2668 main.cpp:63] Version 33.0.1-8253317
+adb I 01-15 12:33:09 16652  2668 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-15 12:33:09 16652  2668 main.cpp:63] 
+adb I 01-15 12:33:09 16652  2668 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-15 12:33:09 16652  2668 auth.cpp:417] adb_auth_init...
+adb I 01-15 12:33:09 16652  2668 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-15 12:33:09 16652  2668 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-15 12:33:09 16652  2668 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-15 12:33:09 16652  2668 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-15 12:33:09 16652  2668 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-15 12:33:09 16652  2668 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-15 12:33:09 16652  2668 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-15 12:33:09 16652  2668 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-15 12:33:09 16652  2668 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-15 12:33:09 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:09 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:09 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:10 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:10 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:10 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:12 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:12 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:12 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:16 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:16 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:16 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:24 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:24 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:24 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:40 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:40 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:33:40 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:34:12 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:34:12 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:34:12 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:35:16 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:35:16 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:35:16 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:37:24 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:37:24 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:37:24 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:41:40 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:41:40 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:41:40 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:50:12 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:50:12 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-15 12:50:12 16652  2668 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 7336) ---
+adb I 01-24 15:16:25  7336 18436 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-24 15:16:25  7336 18436 main.cpp:63] Version 33.0.1-8253317
+adb I 01-24 15:16:25  7336 18436 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-24 15:16:25  7336 18436 main.cpp:63] 
+adb I 01-24 15:16:25  7336 18436 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-24 15:16:25  7336 18436 auth.cpp:417] adb_auth_init...
+adb I 01-24 15:16:25  7336 18436 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-24 15:16:25  7336 18436 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-24 15:16:25  7336 18436 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-24 15:16:25  7336 18436 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-24 15:16:25  7336 18436 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-24 15:16:25  7336 18436 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-24 15:16:25  7336 18436 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-24 15:16:25  7336 18436 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-24 15:16:25  7336 18436 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-24 15:16:25  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:25  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:25  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:26  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:26  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:26  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:28  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:28  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:28  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:32  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:32  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:32  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:40  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:40  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 15:16:40  7336 18436 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 4448) ---
+adb I 01-24 16:45:39  4448  4492 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-24 16:45:39  4448  4492 main.cpp:63] Version 33.0.1-8253317
+adb I 01-24 16:45:39  4448  4492 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-24 16:45:39  4448  4492 main.cpp:63] 
+adb I 01-24 16:45:39  4448  4492 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-24 16:45:39  4448  4492 auth.cpp:417] adb_auth_init...
+adb I 01-24 16:45:39  4448  4492 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-24 16:45:39  4448  4492 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-24 16:45:39  4448  4492 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-24 16:45:39  4448  4492 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-24 16:45:39  4448  4492 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-24 16:45:39  4448  4492 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-24 16:45:39  4448  4492 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-24 16:45:39  4448  4492 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-24 16:45:39  4448  4492 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-24 16:45:39  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:39  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:39  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:40  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:40  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:40  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:42  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:42  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:42  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:46  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:46  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:46  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:54  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:54  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:45:54  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:46:10  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:46:10  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:46:10  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:46:42  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:46:42  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:46:42  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:47:46  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:47:46  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:47:46  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:49:54  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:49:54  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:49:54  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:54:10  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:54:10  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 16:54:10  4448  4492 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 20164) ---
+adb I 01-24 17:06:07 20164 20348 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-24 17:06:07 20164 20348 main.cpp:63] Version 33.0.1-8253317
+adb I 01-24 17:06:07 20164 20348 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-24 17:06:07 20164 20348 main.cpp:63] 
+adb I 01-24 17:06:07 20164 20348 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-24 17:06:07 20164 20348 auth.cpp:417] adb_auth_init...
+adb I 01-24 17:06:07 20164 20348 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-24 17:06:07 20164 20348 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-24 17:06:07 20164 20348 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-24 17:06:07 20164 20348 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-24 17:06:07 20164 20348 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-24 17:06:07 20164 20348 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-24 17:06:07 20164 20348 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-24 17:06:07 20164 20348 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-24 17:06:07 20164 20348 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-24 17:06:07 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:07 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:07 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:08 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:08 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:08 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:10 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:10 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:10 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:14 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:14 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:14 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:22 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:22 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:22 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:38 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:38 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:06:38 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:07:10 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:07:10 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:07:10 20164 20348 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb server killed by remote request
+--- adb starting (pid 6148) ---
+adb I 01-24 17:09:53  6148  8044 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-24 17:09:53  6148  8044 main.cpp:63] Version 33.0.1-8253317
+adb I 01-24 17:09:53  6148  8044 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-24 17:09:53  6148  8044 main.cpp:63] 
+adb I 01-24 17:09:53  6148  8044 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-24 17:09:53  6148  8044 auth.cpp:417] adb_auth_init...
+adb I 01-24 17:09:53  6148  8044 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-24 17:09:53  6148  8044 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-24 17:09:53  6148  8044 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-24 17:09:53  6148  8044 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-24 17:09:53  6148  8044 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-24 17:09:53  6148  8044 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-24 17:09:53  6148  8044 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-24 17:09:53  6148  8044 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-24 17:09:53  6148  8044 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-24 17:09:53  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:09:53  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:09:53  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:09:54  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:09:54  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:09:54  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:09:56  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:09:56  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:09:56  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:00  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:00  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:00  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:08  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:08  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:08  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:24  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:24  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:24  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:56  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:56  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:10:56  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:12:00  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:12:00  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:12:00  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:14:08  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:14:08  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:14:08  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:18:24  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:18:24  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:18:24  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:23:16  6148  2500 transport.cpp:332] emulator-5554: read thread spawning
+adb I 01-24 17:23:16  6148 10548 transport.cpp:304] emulator-5554: write thread spawning
+adb I 01-24 17:23:17  6148  2500 transport.cpp:336] emulator-5554: read failed: connection reset
+adb I 01-24 17:23:17  6148  2500 transport.cpp:1225] emulator-5554: connection terminated: read failed
+adb I 01-24 17:23:17  6148  8044 adb.cpp:171] emulator-5554: already offline
+adb I 01-24 17:23:17  6148  8044 transport.cpp:910] destroying transport emulator-5554
+adb I 01-24 17:23:17  6148  8044 transport.cpp:404] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 01-24 17:23:17  6148  8044 transport.cpp:422] BlockingConnectionAdapter(emulator-5554): stopped
+adb I 01-24 17:23:17  6148  8044 transport.cpp:291] BlockingConnectionAdapter(emulator-5554): destructing
+adb I 01-24 17:23:17  6148  8044 transport.cpp:397] BlockingConnectionAdapter(emulator-5554): already stopped
+adb I 01-24 17:24:24  6148  9640 transport.cpp:332] emulator-5554: read thread spawning
+adb I 01-24 17:24:24  6148  9764 transport.cpp:304] emulator-5554: write thread spawning
+adb I 01-24 17:24:25  6148  9640 transport.cpp:336] emulator-5554: read failed: connection reset
+adb I 01-24 17:24:25  6148  9640 transport.cpp:1225] emulator-5554: connection terminated: read failed
+adb I 01-24 17:24:25  6148  8044 adb.cpp:171] emulator-5554: already offline
+adb I 01-24 17:24:25  6148  8044 transport.cpp:910] destroying transport emulator-5554
+adb I 01-24 17:24:25  6148  8044 transport.cpp:404] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 01-24 17:24:25  6148  8044 transport.cpp:422] BlockingConnectionAdapter(emulator-5554): stopped
+adb I 01-24 17:24:25  6148  8044 transport.cpp:291] BlockingConnectionAdapter(emulator-5554): destructing
+adb I 01-24 17:24:25  6148  8044 transport.cpp:397] BlockingConnectionAdapter(emulator-5554): already stopped
+adb I 01-24 17:24:31  6148 11272 transport.cpp:332] emulator-5554: read thread spawning
+adb I 01-24 17:24:31  6148 11604 transport.cpp:304] emulator-5554: write thread spawning
+adb I 01-24 17:24:31  6148  3844 transport.cpp:291] BlockingConnectionAdapter(<unknown>): destructing
+adb I 01-24 17:24:31  6148  3844 transport.cpp:392] BlockingConnectionAdapter(<unknown>): not started
+adb I 01-24 17:24:32  6148 11272 transport.cpp:336] emulator-5554: read failed: connection reset
+adb I 01-24 17:24:32  6148 11272 transport.cpp:1225] emulator-5554: connection terminated: read failed
+adb I 01-24 17:24:32  6148  8044 adb.cpp:171] emulator-5554: already offline
+adb I 01-24 17:24:32  6148  8044 transport.cpp:910] destroying transport emulator-5554
+adb I 01-24 17:24:32  6148  8044 transport.cpp:404] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 01-24 17:24:32  6148  8044 transport.cpp:422] BlockingConnectionAdapter(emulator-5554): stopped
+adb I 01-24 17:24:32  6148  8044 transport.cpp:291] BlockingConnectionAdapter(emulator-5554): destructing
+adb I 01-24 17:24:32  6148  8044 transport.cpp:397] BlockingConnectionAdapter(emulator-5554): already stopped
+adb I 01-24 17:25:10  6148 19416 transport.cpp:332] emulator-5554: read thread spawning
+adb I 01-24 17:25:10  6148 19852 transport.cpp:304] emulator-5554: write thread spawning
+adb I 01-24 17:25:10  6148  3844 transport.cpp:291] BlockingConnectionAdapter(<unknown>): destructing
+adb I 01-24 17:25:10  6148  3844 transport.cpp:392] BlockingConnectionAdapter(<unknown>): not started
+adb I 01-24 17:25:10  6148 19416 transport.cpp:336] emulator-5554: read failed: connection reset
+adb I 01-24 17:25:10  6148 19416 transport.cpp:1225] emulator-5554: connection terminated: read failed
+adb I 01-24 17:25:10  6148  8044 adb.cpp:171] emulator-5554: already offline
+adb I 01-24 17:25:10  6148  8044 transport.cpp:910] destroying transport emulator-5554
+adb I 01-24 17:25:10  6148  8044 transport.cpp:404] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 01-24 17:25:10  6148  8044 transport.cpp:422] BlockingConnectionAdapter(emulator-5554): stopped
+adb I 01-24 17:25:10  6148  8044 transport.cpp:291] BlockingConnectionAdapter(emulator-5554): destructing
+adb I 01-24 17:25:10  6148  8044 transport.cpp:397] BlockingConnectionAdapter(emulator-5554): already stopped
+adb I 01-24 17:26:56  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:26:56  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:26:56  6148  8044 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:28:23  6148  8364 transport.cpp:332] emulator-5554: read thread spawning
+adb I 01-24 17:28:23  6148  2680 transport.cpp:304] emulator-5554: write thread spawning
+adb I 01-24 17:28:24  6148  3844 transport.cpp:291] BlockingConnectionAdapter(<unknown>): destructing
+adb I 01-24 17:28:24  6148  3844 transport.cpp:392] BlockingConnectionAdapter(<unknown>): not started
+adb I 01-24 17:28:24  6148  8364 transport.cpp:336] emulator-5554: read failed: connection reset
+adb I 01-24 17:28:24  6148  8364 transport.cpp:1225] emulator-5554: connection terminated: read failed
+adb I 01-24 17:28:24  6148  8044 adb.cpp:171] emulator-5554: already offline
+adb I 01-24 17:28:24  6148  8044 transport.cpp:910] destroying transport emulator-5554
+adb I 01-24 17:28:24  6148  8044 transport.cpp:404] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 01-24 17:28:24  6148  8044 transport.cpp:422] BlockingConnectionAdapter(emulator-5554): stopped
+adb I 01-24 17:28:24  6148  8044 transport.cpp:291] BlockingConnectionAdapter(emulator-5554): destructing
+adb I 01-24 17:28:24  6148  8044 transport.cpp:397] BlockingConnectionAdapter(emulator-5554): already stopped
+adb server killed by remote request
+--- adb starting (pid 15312) ---
+adb I 01-24 17:35:34 15312 13440 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 01-24 17:35:34 15312 13440 main.cpp:63] Version 33.0.1-8253317
+adb I 01-24 17:35:34 15312 13440 main.cpp:63] Installed as C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Android\Sdk\platform-tools\adb.exe
+adb I 01-24 17:35:34 15312 13440 main.cpp:63] 
+adb I 01-24 17:35:34 15312 13440 transport_mdns.cpp:237] Openscreen mdns discovery enabled
+adb I 01-24 17:35:34 15312 13440 auth.cpp:417] adb_auth_init...
+adb I 01-24 17:35:34 15312 13440 auth.cpp:152] loaded new key from 'C:\Users\SOUMYODIP SUTRADHAR\.android\adbkey' with fingerprint B65679408CB24CDD667B00E335689A95E71CF3818055AA6DC5649CCCB58B021E
+adb I 01-24 17:35:35 15312 13440 udp_socket.cpp:659] UDP socket created for 0.0.0.0:5353
+adb I 01-24 17:35:35 15312 13440 udp_socket.cpp:170] AdbUdpSocket fd=2054
+adb I 01-24 17:35:35 15312 13440 udp_socket.cpp:659] UDP socket created for [0000:0000:0000:0000:0000:0000:0000:0000]:5353
+adb I 01-24 17:35:35 15312 13440 udp_socket.cpp:170] AdbUdpSocket fd=2055
+adb I 01-24 17:35:35 15312 13440 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-24 17:35:35 15312 13440 udp_socket.cpp:523] bind endpoint=0.0.0.0:5353
+adb I 01-24 17:35:35 15312 13440 udp_socket.cpp:274] SetMulticastOutboundInterface for index=19
+adb I 01-24 17:35:35 15312 13440 udp_socket.cpp:548] bind endpoint=[0000:0000:0000:0000:0000:0000:0000:0000]:5353 scope_id=0
+adb I 01-24 17:35:35 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:35 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:35 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:36 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:36 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:36 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:38 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:38 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:38 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:42 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:42 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:42 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:50 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:50 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:35:50 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:36:06 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:36:06 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:36:06 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:36:38 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:36:38 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:36:38 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:37:42 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:37:42 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353
+adb I 01-24 17:37:42 15312 13440 udp_socket.cpp:402] SendMessage ip=224.0.0.251:5353

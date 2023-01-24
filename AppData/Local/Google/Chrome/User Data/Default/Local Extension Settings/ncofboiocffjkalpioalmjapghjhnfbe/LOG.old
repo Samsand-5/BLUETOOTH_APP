@@ -1,12 +1,12 @@
-2022/12/21-17:18:40.294 4f9c Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ncofboiocffjkalpioalmjapghjhnfbe/MANIFEST-000001
-2022/12/21-17:18:40.295 4f9c Recovering log #973
-2022/12/21-17:18:40.300 4f9c Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ncofboiocffjkalpioalmjapghjhnfbe/000973.log 
-2022/12/21-18:18:52.805 24ac Level-0 table #977: started
-2022/12/21-18:18:52.835 24ac Level-0 table #977: 1205293 bytes OK
-2022/12/21-18:18:52.837 24ac Delete type=0 #973
-2022/12/21-19:34:44.579 4ec0 Level-0 table #979: started
-2022/12/21-19:34:44.602 4ec0 Level-0 table #979: 894389 bytes OK
-2022/12/21-19:34:44.603 4ec0 Delete type=0 #976
-2022/12/22-12:12:18.656 4f70 Level-0 table #981: started
-2022/12/22-12:12:18.672 4f70 Level-0 table #981: 1109490 bytes OK
-2022/12/22-12:12:18.673 4f70 Delete type=0 #978
+2023/01/08-13:00:01.940 3ebc Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ncofboiocffjkalpioalmjapghjhnfbe/MANIFEST-000001
+2023/01/08-13:00:01.941 3ebc Recovering log #1053
+2023/01/08-13:00:01.952 3ebc Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\ncofboiocffjkalpioalmjapghjhnfbe/001053.log 
+2023/01/08-14:00:08.056 b3c Level-0 table #1058: started
+2023/01/08-14:00:08.078 b3c Level-0 table #1058: 1227982 bytes OK
+2023/01/08-14:00:08.081 b3c Delete type=0 #1053
+2023/01/08-19:58:08.558 51fc Compacting 1@1 + 1@2 files
+2023/01/08-19:58:08.609 51fc Generated table #1059@1: 17 keys, 908860 bytes
+2023/01/08-19:58:08.609 51fc Compacted 1@1 + 1@2 files => 908860 bytes
+2023/01/08-19:58:08.610 51fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/08-19:58:08.611 51fc Delete type=2 #1055
+2023/01/08-19:58:08.612 51fc Delete type=2 #1058

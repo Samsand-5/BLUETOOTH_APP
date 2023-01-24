@@ -578,3 +578,2267 @@ SUCCESS RESULT:
 </CompoundCondition>
 END
 Elapsed time (microseconds): 73.500000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 72.300000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 91.500000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 88.100000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 91.000000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 95.200000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 74.000000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 96.800000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 104.700000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 141.000000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 58.100000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 91.200000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 104.000000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 65.400000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="4194304" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <LeafCondition localeName="">
+    <Property name="System.SFGAOFlags">
+    <Operation op="ApplicationSpecific">
+    <Value normalized="4194304" type="System.StructuredQueryType.AnyBitsSet">
+  </LeafCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 46.100000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="4194304" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <LeafCondition localeName="">
+    <Property name="System.SFGAOFlags">
+    <Operation op="ApplicationSpecific">
+    <Value normalized="4194304" type="System.StructuredQueryType.AnyBitsSet">
+  </LeafCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 57.200000
+RESOLVE NODATE CONDITION:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+        </LeafCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+SUCCESS RESULT:
+<CompoundCondition conditionType="and">
+  <CompoundCondition conditionType="or">
+    <CompoundCondition conditionType="and">
+      <NegationCondition>
+        <LeafCondition localeName="">
+          <Property name="System.SFGAOFlags">
+          <Operation op="ApplicationSpecific">
+          <Value normalized="4722688" type="System.StructuredQueryType.AnyBitsSet">
+        </LeafCondition>
+      </NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="536870912" type="System.StructuredQueryType.AllBitsSet">
+      </LeafCondition>
+      <CompoundCondition conditionType="or">
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2147483658">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354572">
+        </LeafCondition>
+        <LeafCondition localeName="">
+          <Property name="System.FileReparsePointTag">
+          <Operation op="Equal">
+          <Value normalized="2684354563">
+        </LeafCondition>
+        <NegationCondition>
+          <LeafCondition localeName="">
+            <Property name="System.SFGAOFlags">
+            <Operation op="ApplicationSpecific">
+            <Value normalized="65536" type="System.StructuredQueryType.AllBitsSet">
+          </LeafCondition>
+        </NegationCondition>
+      </CompoundCondition>
+    </CompoundCondition>
+    <NegationCondition>
+      <LeafCondition localeName="">
+        <Property name="System.SFGAOFlags">
+        <Operation op="ApplicationSpecific">
+        <Value normalized="593920" type="System.StructuredQueryType.AnyBitsSet">
+      </LeafCondition>
+    </NegationCondition>
+  </CompoundCondition>
+  <NegationCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="4194304" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </NegationCondition>
+  <CompoundCondition conditionType="or">
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="805306368" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+    <LeafCondition localeName="">
+      <Property name="System.SFGAOFlags">
+      <Operation op="ApplicationSpecific">
+      <Value normalized="545259520" type="System.StructuredQueryType.AllBitsSet">
+    </LeafCondition>
+  </CompoundCondition>
+</CompoundCondition>
+END
+Elapsed time (microseconds): 90.500000

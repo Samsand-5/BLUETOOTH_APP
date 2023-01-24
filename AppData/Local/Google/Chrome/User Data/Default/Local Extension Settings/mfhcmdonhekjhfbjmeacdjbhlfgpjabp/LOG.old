@@ -1,6 +1,27 @@
-2022/12/21-17:18:39.653 4f9c Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\mfhcmdonhekjhfbjmeacdjbhlfgpjabp/MANIFEST-000001
-2022/12/21-17:18:39.653 4f9c Recovering log #925
-2022/12/21-17:18:39.654 4f9c Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\mfhcmdonhekjhfbjmeacdjbhlfgpjabp/000925.log 
-2022/12/22-17:52:33.283 1290 Level-0 table #929: started
-2022/12/22-17:52:33.699 1290 Level-0 table #929: 61620239 bytes OK
-2022/12/22-17:52:33.710 1290 Delete type=0 #925
+2023/01/08-13:00:01.328 3ebc Reusing MANIFEST C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\mfhcmdonhekjhfbjmeacdjbhlfgpjabp/MANIFEST-000001
+2023/01/08-13:00:01.328 3ebc Recovering log #960
+2023/01/08-13:00:01.329 3ebc Reusing old log C:\Users\SOUMYODIP SUTRADHAR\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\mfhcmdonhekjhfbjmeacdjbhlfgpjabp/000960.log 
+2023/01/08-13:00:13.948 24f4 Level-0 table #964: started
+2023/01/08-13:00:14.221 24f4 Level-0 table #964: 53805685 bytes OK
+2023/01/08-13:00:14.226 24f4 Delete type=0 #960
+2023/01/08-13:00:14.231 41d8 Compacting 4@0 + 0@1 files
+2023/01/08-13:00:14.689 41d8 Generated table #965@0: 3 keys, 53805512 bytes
+2023/01/08-13:00:14.705 41d8 Generated table #966@0: 2 keys, 198 bytes
+2023/01/08-13:00:14.705 41d8 Compacted 4@0 + 0@1 files => 53805710 bytes
+2023/01/08-13:00:14.706 41d8 compacted to: files[ 0 2 2 0 0 0 0 ]
+2023/01/08-13:00:14.706 41d8 Delete type=2 #955
+2023/01/08-13:00:14.706 41d8 Delete type=2 #958
+2023/01/08-13:00:14.706 41d8 Delete type=2 #961
+2023/01/08-13:00:14.706 41d8 Delete type=2 #964
+2023/01/08-13:00:14.720 41d8 Compacting 1@1 + 1@2 files
+2023/01/08-13:00:14.722 41d8 Generated table #967@1: 6 keys, 380 bytes
+2023/01/08-13:00:14.722 41d8 Compacted 1@1 + 1@2 files => 380 bytes
+2023/01/08-13:00:14.722 41d8 compacted to: files[ 0 1 2 0 0 0 0 ]
+2023/01/08-13:00:14.723 41d8 Delete type=2 #951
+2023/01/08-13:00:14.723 41d8 Delete type=2 #966
+2023/01/08-13:00:14.723 41d8 Compacting 1@1 + 1@2 files
+2023/01/08-13:00:15.091 41d8 Generated table #968@1: 3 keys, 53805512 bytes
+2023/01/08-13:00:15.098 41d8 Compacted 1@1 + 1@2 files => 53805512 bytes
+2023/01/08-13:00:15.098 41d8 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/01/08-13:00:15.099 41d8 Delete type=2 #952
+2023/01/08-13:00:15.099 41d8 Delete type=2 #965

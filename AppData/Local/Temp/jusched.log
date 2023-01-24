@@ -163,3 +163,1845 @@ JavaUpdate [Critical]nextSchedTime=Sat Dec 24 01:01:00 2022
 JavaUpdate [Critical]sleeptime (sec=99583, hours=27, days=1.15)
 actual sleep time=99583000 msecs (27:39:43) for JavaUpdate [Critical]
 
+[2022/12/23 16:38:22.723, jusched.exe (PID: 20464, TID: 20468), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2022/12/23 16:43:22.741, jusched.exe (PID: 20464, TID: 20468), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Dec 24 01:01:00 2022
+
+[2022/12/23 16:43:22.743, jusched.exe (PID: 20464, TID: 20468), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Dec 24 01:01:00 2022
+JavaUpdate [Critical]lastSchedTime=Sat Dec 17 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Dec 24 01:01:00 2022
+JavaUpdate [Critical]sleeptime (sec=29858, hours=8, days=0.35)
+actual sleep time=29858000 msecs (8:17:38) for JavaUpdate [Critical]
+
+[2022/12/23 17:38:06.761, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2022/12/23 17:43:06.775, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Dec 24 01:01:00 2022
+
+[2022/12/23 17:43:06.775, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Dec 24 01:01:00 2022
+JavaUpdate [Critical]lastSchedTime=Sat Dec 17 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Dec 24 01:01:00 2022
+JavaUpdate [Critical]sleeptime (sec=26274, hours=7, days=0.30)
+actual sleep time=26274000 msecs (7:17:54) for JavaUpdate [Critical]
+
+[2022/12/24 17:55:03.267, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: Timeout occured.  Run Java update [Critical] now.
+
+[2022/12/24 17:55:03.269, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: Time for a Java Update [Critical] check.
+
+[2022/12/24 17:55:03.271, jusched.exe (PID: 1216, TID: 1220), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2022/12/24 17:55:03.803, jusched.exe (PID: 1216, TID: 1220), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/24 17:55:03.805, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2022/12/24 17:55:03.807, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2022/12/24 17:55:03.807, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2022/12/24 17:55:03.808, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: No Updates available
+
+[2022/12/24 17:55:04.021, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2022/12/24 17:55:04.022, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Dec 25 01:01:00 2022
+
+[2022/12/24 17:55:04.023, jusched.exe (PID: 1216, TID: 1220), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate NextSchedTime=Sun Dec 25 01:01:00 2022
+JavaUpdatelastSchedTime=Sun Dec 18 01:01:00 2022
+JavaUpdatenextSchedTime=Sun Dec 25 01:01:00 2022
+JavaUpdatesleeptime (sec=25556, hours=7, days=0.30)
+actual sleep time=25556000 msecs (7:05:56) for JavaUpdate
+
+[2022/12/24 17:55:04.056, jucheck.exe (PID: 21348, TID: 2612), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2022/12/24 17:55:04.059, jucheck.exe (PID: 21348, TID: 2612), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2022/12/24 17:55:04.165, jucheck.exe (PID: 21348, TID: 2612), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2022/12/24 17:55:04.166, jucheck.exe (PID: 21348, TID: 2612), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2022/12/24 17:55:04.166, jucheck.exe (PID: 21348, TID: 2612), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2022/12/24 17:55:04.167, jucheck.exe (PID: 21348, TID: 2612), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/24 17:55:04.177, jucheck.exe (PID: 21348, TID: 2612), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2022/12/24 17:55:04.518, jucheck.exe (PID: 21348, TID: 2612), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/24 17:55:04.521, jucheck.exe (PID: 21348, TID: 2612), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2022/12/24 17:55:04.522, jucheck.exe (PID: 21348, TID: 2612), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2022/12/24 17:55:04.522, jucheck.exe (PID: 21348, TID: 2612), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2022/12/24 17:55:04.592, jucheck.exe (PID: 21348, TID: 2612), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/24 17:55:04.593, jucheck.exe (PID: 21348, TID: 2612), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2022/12/24 17:55:04.593, jucheck.exe (PID: 21348, TID: 2612), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/24 17:55:04.595, jucheck.exe (PID: 21348, TID: 2612), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2022/12/24 22:05:41.705, jusched.exe (PID: 19640, TID: 19644), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2022/12/24 22:10:42.005, jusched.exe (PID: 19640, TID: 19644), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2022/12/24 22:10:42.009, jusched.exe (PID: 19640, TID: 19644), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Dec 25 01:01:00 2022
+
+[2022/12/24 22:10:42.009, jusched.exe (PID: 19640, TID: 19644), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate NextSchedTime=Sun Dec 25 01:01:00 2022
+JavaUpdatelastSchedTime=Sun Dec 18 01:01:00 2022
+JavaUpdatenextSchedTime=Sun Dec 25 01:01:00 2022
+JavaUpdatesleeptime (sec=10218, hours=2, days=0.12)
+actual sleep time=10218000 msecs (2:50:18) for JavaUpdate
+
+[2022/12/24 22:10:42.061, jucheck.exe (PID: 20816, TID: 20820), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2022/12/24 22:10:42.066, jucheck.exe (PID: 20816, TID: 20820), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2022/12/24 22:10:42.196, jucheck.exe (PID: 20816, TID: 20820), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2022/12/24 22:10:42.197, jucheck.exe (PID: 20816, TID: 20820), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2022/12/24 22:10:42.198, jucheck.exe (PID: 20816, TID: 20820), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2022/12/24 22:10:42.198, jucheck.exe (PID: 20816, TID: 20820), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/24 22:10:42.212, jucheck.exe (PID: 20816, TID: 20820), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2022/12/24 22:10:43.667, jucheck.exe (PID: 20816, TID: 20820), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/24 22:10:43.669, jucheck.exe (PID: 20816, TID: 20820), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2022/12/24 22:10:43.670, jucheck.exe (PID: 20816, TID: 20820), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2022/12/24 22:10:43.670, jucheck.exe (PID: 20816, TID: 20820), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2022/12/24 22:10:43.741, jucheck.exe (PID: 20816, TID: 20820), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/24 22:10:43.742, jucheck.exe (PID: 20816, TID: 20820), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2022/12/24 22:10:43.743, jucheck.exe (PID: 20816, TID: 20820), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/24 22:10:43.745, jucheck.exe (PID: 20816, TID: 20820), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2022/12/25 07:11:13.677, jusched.exe (PID: 20396, TID: 20400), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2022/12/25 07:16:13.773, jusched.exe (PID: 20396, TID: 20400), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2022/12/25 07:16:13.775, jusched.exe (PID: 20396, TID: 20400), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Sun Dec 25 08:01:00 2022
+
+[2022/12/25 07:16:13.775, jusched.exe (PID: 20396, TID: 20400), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate NextSchedTime=Sun Jan 01 01:01:00 2023
+JavaUpdatelastSchedTime=Sun Dec 25 01:01:00 2022
+JavaUpdatenextSchedTime=Sun Jan 01 01:01:00 2023
+JavaUpdatesleeptime (sec=2687, hours=0, days=0.03)
+actual sleep time=2687000 msecs (0:44:47) for JavaUpdate
+
+[2022/12/25 07:16:13.789, jucheck.exe (PID: 12636, TID: 12652), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2022/12/25 07:16:13.790, jucheck.exe (PID: 12636, TID: 12652), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2022/12/25 07:16:13.846, jucheck.exe (PID: 12636, TID: 12652), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2022/12/25 07:16:13.846, jucheck.exe (PID: 12636, TID: 12652), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2022/12/25 07:16:13.846, jucheck.exe (PID: 12636, TID: 12652), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2022/12/25 07:16:13.846, jucheck.exe (PID: 12636, TID: 12652), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/25 07:16:13.851, jucheck.exe (PID: 12636, TID: 12652), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2022/12/25 07:16:14.057, jucheck.exe (PID: 12636, TID: 12652), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/25 07:16:14.058, jucheck.exe (PID: 12636, TID: 12652), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2022/12/25 07:16:14.058, jucheck.exe (PID: 12636, TID: 12652), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2022/12/25 07:16:14.058, jucheck.exe (PID: 12636, TID: 12652), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2022/12/25 07:16:14.107, jucheck.exe (PID: 12636, TID: 12652), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/25 07:16:14.107, jucheck.exe (PID: 12636, TID: 12652), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2022/12/25 07:16:14.107, jucheck.exe (PID: 12636, TID: 12652), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/25 07:16:14.109, jucheck.exe (PID: 12636, TID: 12652), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2022/12/30 16:14:48.183, jusched.exe (PID: 21128, TID: 18372), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2022/12/30 16:19:48.202, jusched.exe (PID: 21128, TID: 18372), AllUtils.cpp:177 (logit)]
+	INFO: Time for a Java Update check.
+
+[2022/12/30 16:19:48.206, jusched.exe (PID: 21128, TID: 18372), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2022/12/30 16:19:49.501, jusched.exe (PID: 21128, TID: 18372), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/30 16:19:49.502, jusched.exe (PID: 21128, TID: 18372), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2022/12/30 16:19:49.503, jusched.exe (PID: 21128, TID: 18372), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2022/12/30 16:19:49.503, jusched.exe (PID: 21128, TID: 18372), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2022/12/30 16:19:49.503, jusched.exe (PID: 21128, TID: 18372), AllUtils.cpp:177 (logit)]
+	INFO: No Updates available
+
+[2022/12/30 16:19:49.593, jusched.exe (PID: 21128, TID: 18372), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2022/12/30 16:19:49.593, jusched.exe (PID: 21128, TID: 18372), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Dec 31 01:01:00 2022
+
+[2022/12/30 16:19:49.594, jusched.exe (PID: 21128, TID: 18372), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]lastSchedTime=Sat Dec 24 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]sleeptime (sec=31271, hours=8, days=0.36)
+actual sleep time=31271000 msecs (8:41:11) for JavaUpdate [Critical]
+
+[2022/12/30 16:19:49.608, jucheck.exe (PID: 10924, TID: 9248), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2022/12/30 16:19:49.609, jucheck.exe (PID: 10924, TID: 9248), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2022/12/30 16:19:49.679, jucheck.exe (PID: 10924, TID: 9248), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2022/12/30 16:19:49.679, jucheck.exe (PID: 10924, TID: 9248), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2022/12/30 16:19:49.680, jucheck.exe (PID: 10924, TID: 9248), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2022/12/30 16:19:49.680, jucheck.exe (PID: 10924, TID: 9248), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/30 16:19:49.686, jucheck.exe (PID: 10924, TID: 9248), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2022/12/30 16:19:49.930, jucheck.exe (PID: 10924, TID: 9248), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/30 16:19:49.931, jucheck.exe (PID: 10924, TID: 9248), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2022/12/30 16:19:49.932, jucheck.exe (PID: 10924, TID: 9248), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2022/12/30 16:19:49.932, jucheck.exe (PID: 10924, TID: 9248), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2022/12/30 16:19:49.933, jucheck.exe (PID: 10924, TID: 9248), AllUtils.cpp:177 (logit)]
+	INFO: Update Descriptor Checksums DO NOT Match
+
+[2022/12/30 16:19:49.933, jucheck.exe (PID: 10924, TID: 9248), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/30 16:19:49.934, jucheck.exe (PID: 10924, TID: 9248), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2022/12/30 16:19:49.934, jucheck.exe (PID: 10924, TID: 9248), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/30 16:19:49.935, jucheck.exe (PID: 10924, TID: 9248), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2022/12/30 17:10:16.844, jusched.exe (PID: 19892, TID: 19896), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2022/12/30 19:49:27.979, jusched.exe (PID: 19316, TID: 19320), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2022/12/30 19:54:28.136, jusched.exe (PID: 19316, TID: 19320), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2022/12/30 19:54:28.138, jusched.exe (PID: 19316, TID: 19320), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Dec 31 01:01:00 2022
+
+[2022/12/30 19:54:28.138, jusched.exe (PID: 19316, TID: 19320), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]lastSchedTime=Sat Dec 24 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]sleeptime (sec=18392, hours=5, days=0.21)
+actual sleep time=18392000 msecs (5:06:32) for JavaUpdate [Critical]
+
+[2022/12/30 19:54:28.171, jucheck.exe (PID: 5324, TID: 12956), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2022/12/30 19:54:28.173, jucheck.exe (PID: 5324, TID: 12956), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2022/12/30 19:54:28.305, jucheck.exe (PID: 5324, TID: 12956), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2022/12/30 19:54:28.305, jucheck.exe (PID: 5324, TID: 12956), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2022/12/30 19:54:28.305, jucheck.exe (PID: 5324, TID: 12956), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2022/12/30 19:54:28.307, jucheck.exe (PID: 5324, TID: 12956), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/30 19:54:28.321, jucheck.exe (PID: 5324, TID: 12956), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2022/12/30 19:54:28.732, jucheck.exe (PID: 5324, TID: 12956), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/30 19:54:28.735, jucheck.exe (PID: 5324, TID: 12956), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2022/12/30 19:54:28.736, jucheck.exe (PID: 5324, TID: 12956), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2022/12/30 19:54:28.736, jucheck.exe (PID: 5324, TID: 12956), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2022/12/30 19:54:28.805, jucheck.exe (PID: 5324, TID: 12956), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/30 19:54:28.806, jucheck.exe (PID: 5324, TID: 12956), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2022/12/30 19:54:28.806, jucheck.exe (PID: 5324, TID: 12956), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/30 19:54:28.809, jucheck.exe (PID: 5324, TID: 12956), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2022/12/31 11:38:58.551, jusched.exe (PID: 7812, TID: 7172), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2022/12/31 11:43:58.582, jusched.exe (PID: 7812, TID: 7172), AllUtils.cpp:177 (logit)]
+	INFO: Time for a Java Update [Critical] check.
+
+[2022/12/31 11:43:58.583, jusched.exe (PID: 7812, TID: 7172), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2022/12/31 11:43:59.456, jusched.exe (PID: 7812, TID: 7172), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/31 11:43:59.460, jusched.exe (PID: 7812, TID: 7172), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2022/12/31 11:43:59.461, jusched.exe (PID: 7812, TID: 7172), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2022/12/31 11:43:59.461, jusched.exe (PID: 7812, TID: 7172), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2022/12/31 11:43:59.462, jusched.exe (PID: 7812, TID: 7172), AllUtils.cpp:177 (logit)]
+	INFO: No Updates available
+
+[2022/12/31 11:43:59.581, jusched.exe (PID: 7812, TID: 7172), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2022/12/31 11:43:59.582, jusched.exe (PID: 7812, TID: 7172), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Jan 01 01:01:00 2023
+
+[2022/12/31 11:43:59.583, jusched.exe (PID: 7812, TID: 7172), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate NextSchedTime=Sun Jan 01 01:01:00 2023
+JavaUpdatelastSchedTime=Sun Dec 25 01:01:00 2022
+JavaUpdatenextSchedTime=Sun Jan 01 01:01:00 2023
+JavaUpdatesleeptime (sec=47821, hours=13, days=0.55)
+actual sleep time=47821000 msecs (13:17:01) for JavaUpdate
+
+[2022/12/31 11:43:59.611, jucheck.exe (PID: 18596, TID: 9108), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2022/12/31 11:43:59.613, jucheck.exe (PID: 18596, TID: 9108), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2022/12/31 11:43:59.724, jucheck.exe (PID: 18596, TID: 9108), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2022/12/31 11:43:59.725, jucheck.exe (PID: 18596, TID: 9108), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2022/12/31 11:43:59.725, jucheck.exe (PID: 18596, TID: 9108), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2022/12/31 11:43:59.725, jucheck.exe (PID: 18596, TID: 9108), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/31 11:43:59.737, jucheck.exe (PID: 18596, TID: 9108), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2022/12/31 11:44:00.603, jucheck.exe (PID: 18596, TID: 9108), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/31 11:44:00.605, jucheck.exe (PID: 18596, TID: 9108), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2022/12/31 11:44:00.606, jucheck.exe (PID: 18596, TID: 9108), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2022/12/31 11:44:00.606, jucheck.exe (PID: 18596, TID: 9108), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2022/12/31 11:44:00.709, jucheck.exe (PID: 18596, TID: 9108), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2022/12/31 11:44:00.710, jucheck.exe (PID: 18596, TID: 9108), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2022/12/31 11:44:00.710, jucheck.exe (PID: 18596, TID: 9108), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2022/12/31 11:44:00.713, jucheck.exe (PID: 18596, TID: 9108), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/01 13:00:03.935, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/01 13:05:04.116, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/01 13:05:04.118, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Sun Jan 01 15:01:00 2023
+
+[2023/01/01 13:05:04.118, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate NextSchedTime=Sun Jan 08 01:01:00 2023
+JavaUpdatelastSchedTime=Sun Jan 01 01:01:00 2023
+JavaUpdatenextSchedTime=Sun Jan 08 01:01:00 2023
+JavaUpdatesleeptime (sec=6956, hours=1, days=0.08)
+actual sleep time=6956000 msecs (1:55:56) for JavaUpdate
+
+[2023/01/01 13:05:04.149, jucheck.exe (PID: 8848, TID: 6124), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/01 13:05:04.150, jucheck.exe (PID: 8848, TID: 6124), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/01 13:05:04.257, jucheck.exe (PID: 8848, TID: 6124), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/01 13:05:04.258, jucheck.exe (PID: 8848, TID: 6124), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/01 13:05:04.258, jucheck.exe (PID: 8848, TID: 6124), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/01 13:05:04.259, jucheck.exe (PID: 8848, TID: 6124), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/01 13:05:04.266, jucheck.exe (PID: 8848, TID: 6124), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/01 13:05:05.694, jucheck.exe (PID: 8848, TID: 6124), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/01 13:05:05.696, jucheck.exe (PID: 8848, TID: 6124), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/01 13:05:05.697, jucheck.exe (PID: 8848, TID: 6124), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/01 13:05:05.698, jucheck.exe (PID: 8848, TID: 6124), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/01 13:05:05.717, jucheck.exe (PID: 8848, TID: 6124), AllUtils.cpp:177 (logit)]
+	INFO: Update Descriptor Checksums DO NOT Match
+
+[2023/01/01 13:05:05.717, jucheck.exe (PID: 8848, TID: 6124), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/01 13:05:05.718, jucheck.exe (PID: 8848, TID: 6124), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/01 13:05:05.718, jucheck.exe (PID: 8848, TID: 6124), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/01 13:05:05.720, jucheck.exe (PID: 8848, TID: 6124), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/01 15:03:22.737, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: Timeout occured.  Run Java update now.
+
+[2023/01/01 15:03:22.738, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: Time for a Java Update check.
+
+[2023/01/01 15:03:22.742, jusched.exe (PID: 20084, TID: 20088), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/01 15:03:23.234, jusched.exe (PID: 20084, TID: 20088), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/01 15:03:23.235, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/01 15:03:23.235, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/01 15:03:23.235, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/01 15:03:23.237, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: No Updates available
+
+[2023/01/01 15:03:23.238, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 07 01:01:00 2023
+
+[2023/01/01 15:03:23.238, jusched.exe (PID: 20084, TID: 20088), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=467857, hours=129, days=5.42)
+actual sleep time=467857000 msecs (129:57:37) for JavaUpdate [Critical]
+
+[2023/01/02 08:41:09.099, jusched.exe (PID: 20300, TID: 20304), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/02 08:46:09.299, jusched.exe (PID: 20300, TID: 20304), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/02 08:46:09.300, jusched.exe (PID: 20300, TID: 20304), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 07 01:01:00 2023
+
+[2023/01/02 08:46:09.301, jusched.exe (PID: 20300, TID: 20304), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=404091, hours=112, days=4.68)
+actual sleep time=404091000 msecs (112:14:51) for JavaUpdate [Critical]
+
+[2023/01/02 08:46:09.336, jucheck.exe (PID: 9600, TID: 8212), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/02 08:46:09.337, jucheck.exe (PID: 9600, TID: 8212), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/02 08:46:09.466, jucheck.exe (PID: 9600, TID: 8212), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/02 08:46:09.466, jucheck.exe (PID: 9600, TID: 8212), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/02 08:46:09.467, jucheck.exe (PID: 9600, TID: 8212), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/02 08:46:09.467, jucheck.exe (PID: 9600, TID: 8212), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/02 08:46:09.478, jucheck.exe (PID: 9600, TID: 8212), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/02 08:46:10.403, jucheck.exe (PID: 9600, TID: 8212), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/02 08:46:10.406, jucheck.exe (PID: 9600, TID: 8212), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/02 08:46:10.407, jucheck.exe (PID: 9600, TID: 8212), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/02 08:46:10.407, jucheck.exe (PID: 9600, TID: 8212), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/02 08:46:10.471, jucheck.exe (PID: 9600, TID: 8212), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/02 08:46:10.472, jucheck.exe (PID: 9600, TID: 8212), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/02 08:46:10.472, jucheck.exe (PID: 9600, TID: 8212), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/02 08:46:10.474, jucheck.exe (PID: 9600, TID: 8212), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/02 14:19:39.421, jusched.exe (PID: 20192, TID: 20196), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/02 14:24:39.566, jusched.exe (PID: 20192, TID: 20196), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/02 14:24:39.568, jusched.exe (PID: 20192, TID: 20196), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 07 01:01:00 2023
+
+[2023/01/02 14:24:39.568, jusched.exe (PID: 20192, TID: 20196), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=383781, hours=106, days=4.44)
+actual sleep time=383781000 msecs (106:36:21) for JavaUpdate [Critical]
+
+[2023/01/02 14:24:39.602, jucheck.exe (PID: 7540, TID: 20024), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/02 14:24:39.604, jucheck.exe (PID: 7540, TID: 20024), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/02 14:24:39.721, jucheck.exe (PID: 7540, TID: 20024), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/02 14:24:39.722, jucheck.exe (PID: 7540, TID: 20024), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/02 14:24:39.722, jucheck.exe (PID: 7540, TID: 20024), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/02 14:24:39.723, jucheck.exe (PID: 7540, TID: 20024), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/02 14:24:39.735, jucheck.exe (PID: 7540, TID: 20024), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/02 14:24:40.157, jucheck.exe (PID: 7540, TID: 20024), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/02 14:24:40.160, jucheck.exe (PID: 7540, TID: 20024), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/02 14:24:40.162, jucheck.exe (PID: 7540, TID: 20024), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/02 14:24:40.163, jucheck.exe (PID: 7540, TID: 20024), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/02 14:24:40.234, jucheck.exe (PID: 7540, TID: 20024), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/02 14:24:40.235, jucheck.exe (PID: 7540, TID: 20024), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/02 14:24:40.236, jucheck.exe (PID: 7540, TID: 20024), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/02 14:24:40.238, jucheck.exe (PID: 7540, TID: 20024), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/03 08:48:54.681, jusched.exe (PID: 17544, TID: 17548), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/03 08:53:54.878, jusched.exe (PID: 17544, TID: 17548), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/03 08:53:54.880, jusched.exe (PID: 17544, TID: 17548), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 07 01:01:00 2023
+
+[2023/01/03 08:53:54.881, jusched.exe (PID: 17544, TID: 17548), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=317226, hours=88, days=3.67)
+actual sleep time=317226000 msecs (88:07:06) for JavaUpdate [Critical]
+
+[2023/01/03 08:53:54.916, jucheck.exe (PID: 11464, TID: 11196), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/03 08:53:54.917, jucheck.exe (PID: 11464, TID: 11196), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/03 08:53:55.032, jucheck.exe (PID: 11464, TID: 11196), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/03 08:53:55.033, jucheck.exe (PID: 11464, TID: 11196), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/03 08:53:55.033, jucheck.exe (PID: 11464, TID: 11196), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/03 08:53:55.034, jucheck.exe (PID: 11464, TID: 11196), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/03 08:53:55.046, jucheck.exe (PID: 11464, TID: 11196), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/03 08:54:27.650, jucheck.exe (PID: 11464, TID: 11196), UpdateCommon.cpp:244 (GetXmlFile)]
+	ERROR: Exception with message 'NetUtils.cpp(162) at HttpConnection::connect(): HttpSendRequest failed: system error 12002 (The operation timed out)' caught
+[2023/01/03 08:54:27.651, jucheck.exe (PID: 11464, TID: 11196), UpdateManager.cpp:115 (CUpdateManager::CheckXmlFiles)]
+	INFO: New Update Descriptor URL Detected
+[2023/01/04 08:59:52.563, jusched.exe (PID: 18916, TID: 18920), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/04 09:04:52.598, jusched.exe (PID: 18916, TID: 18920), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 07 01:01:00 2023
+
+[2023/01/04 09:04:52.600, jusched.exe (PID: 18916, TID: 18920), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=230168, hours=63, days=2.66)
+actual sleep time=230168000 msecs (63:56:08) for JavaUpdate [Critical]
+
+[2023/01/04 23:02:04.694, jusched.exe (PID: 17704, TID: 17708), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/04 23:07:04.712, jusched.exe (PID: 17704, TID: 17708), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 07 01:01:00 2023
+
+[2023/01/04 23:07:04.714, jusched.exe (PID: 17704, TID: 17708), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=179636, hours=49, days=2.08)
+actual sleep time=179636000 msecs (49:53:56) for JavaUpdate [Critical]
+
+[2023/01/05 09:17:59.973, jusched.exe (PID: 18556, TID: 18560), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/05 09:22:59.992, jusched.exe (PID: 18556, TID: 18560), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 07 01:01:00 2023
+
+[2023/01/05 09:22:59.993, jusched.exe (PID: 18556, TID: 18560), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=142681, hours=39, days=1.65)
+actual sleep time=142681000 msecs (39:38:01) for JavaUpdate [Critical]
+
+[2023/01/06 09:26:31.473, jusched.exe (PID: 24380, TID: 21848), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/06 09:31:31.499, jusched.exe (PID: 24380, TID: 21848), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 07 01:01:00 2023
+
+[2023/01/06 09:31:31.499, jusched.exe (PID: 24380, TID: 21848), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Dec 31 01:01:00 2022
+JavaUpdate [Critical]nextSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=55769, hours=15, days=0.65)
+actual sleep time=55769000 msecs (15:29:29) for JavaUpdate [Critical]
+
+[2023/01/07 09:24:22.857, jusched.exe (PID: 18664, TID: 18660), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/07 09:29:22.874, jusched.exe (PID: 18664, TID: 18660), AllUtils.cpp:177 (logit)]
+	INFO: Time for a Java Update [Critical] check.
+
+[2023/01/07 09:29:22.875, jusched.exe (PID: 18664, TID: 18660), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/07 09:29:25.407, jusched.exe (PID: 18664, TID: 18660), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/07 09:29:25.408, jusched.exe (PID: 18664, TID: 18660), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/07 09:29:25.409, jusched.exe (PID: 18664, TID: 18660), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/07 09:29:25.409, jusched.exe (PID: 18664, TID: 18660), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/07 09:29:25.411, jusched.exe (PID: 18664, TID: 18660), AllUtils.cpp:177 (logit)]
+	INFO: No Updates available
+
+[2023/01/07 09:29:25.542, jusched.exe (PID: 18664, TID: 18660), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/07 09:29:25.543, jusched.exe (PID: 18664, TID: 18660), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Jan 08 01:01:00 2023
+
+[2023/01/07 09:29:25.544, jusched.exe (PID: 18664, TID: 18660), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate NextSchedTime=Sun Jan 08 01:01:00 2023
+JavaUpdatelastSchedTime=Sun Jan 01 01:01:00 2023
+JavaUpdatenextSchedTime=Sun Jan 08 01:01:00 2023
+JavaUpdatesleeptime (sec=55895, hours=15, days=0.65)
+actual sleep time=55895000 msecs (15:31:35) for JavaUpdate
+
+[2023/01/07 09:29:25.578, jucheck.exe (PID: 18728, TID: 2504), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/07 09:29:25.580, jucheck.exe (PID: 18728, TID: 2504), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/07 09:29:25.682, jucheck.exe (PID: 18728, TID: 2504), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/07 09:29:25.682, jucheck.exe (PID: 18728, TID: 2504), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/07 09:29:25.682, jucheck.exe (PID: 18728, TID: 2504), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/07 09:29:25.684, jucheck.exe (PID: 18728, TID: 2504), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/07 09:29:25.692, jucheck.exe (PID: 18728, TID: 2504), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/07 09:29:26.989, jucheck.exe (PID: 18728, TID: 2504), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/07 09:29:26.992, jucheck.exe (PID: 18728, TID: 2504), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/07 09:29:26.993, jucheck.exe (PID: 18728, TID: 2504), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/07 09:29:26.993, jucheck.exe (PID: 18728, TID: 2504), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/07 09:29:27.157, jucheck.exe (PID: 18728, TID: 2504), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/07 09:29:27.158, jucheck.exe (PID: 18728, TID: 2504), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/07 09:29:27.158, jucheck.exe (PID: 18728, TID: 2504), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/07 09:29:27.159, jucheck.exe (PID: 18728, TID: 2504), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/08 08:18:24.987, jusched.exe (PID: 23164, TID: 4888), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/08 08:23:30.683, jusched.exe (PID: 23164, TID: 4888), AllUtils.cpp:177 (logit)]
+	INFO: Time for a Java Update check.
+
+[2023/01/08 08:23:30.684, jusched.exe (PID: 23164, TID: 4888), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/08 08:23:30.970, jusched.exe (PID: 23164, TID: 4888), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/08 08:23:30.973, jusched.exe (PID: 23164, TID: 4888), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/08 08:23:30.975, jusched.exe (PID: 23164, TID: 4888), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/08 08:23:30.975, jusched.exe (PID: 23164, TID: 4888), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/08 08:23:30.976, jusched.exe (PID: 23164, TID: 4888), AllUtils.cpp:177 (logit)]
+	INFO: No Updates available
+
+[2023/01/08 08:23:31.103, jusched.exe (PID: 23164, TID: 4888), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/08 08:23:31.104, jusched.exe (PID: 23164, TID: 4888), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 14 01:01:00 2023
+
+[2023/01/08 08:23:31.105, jusched.exe (PID: 23164, TID: 4888), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=491849, hours=136, days=5.69)
+actual sleep time=491849000 msecs (136:37:29) for JavaUpdate [Critical]
+
+[2023/01/08 08:23:31.139, jucheck.exe (PID: 7596, TID: 22496), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/08 08:23:31.141, jucheck.exe (PID: 7596, TID: 22496), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/08 08:23:31.260, jucheck.exe (PID: 7596, TID: 22496), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/08 08:23:31.260, jucheck.exe (PID: 7596, TID: 22496), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/08 08:23:31.261, jucheck.exe (PID: 7596, TID: 22496), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/08 08:23:31.261, jucheck.exe (PID: 7596, TID: 22496), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/08 08:23:31.274, jucheck.exe (PID: 7596, TID: 22496), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/08 08:23:31.588, jucheck.exe (PID: 7596, TID: 22496), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/08 08:23:31.592, jucheck.exe (PID: 7596, TID: 22496), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/08 08:23:31.593, jucheck.exe (PID: 7596, TID: 22496), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/08 08:23:31.593, jucheck.exe (PID: 7596, TID: 22496), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/08 08:23:31.644, jucheck.exe (PID: 7596, TID: 22496), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/08 08:23:31.645, jucheck.exe (PID: 7596, TID: 22496), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/08 08:23:31.645, jucheck.exe (PID: 7596, TID: 22496), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/08 08:23:31.647, jucheck.exe (PID: 7596, TID: 22496), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/09 06:49:55.749, jusched.exe (PID: 16280, TID: 7256), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/09 06:54:59.929, jusched.exe (PID: 16280, TID: 7256), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/09 06:54:59.930, jusched.exe (PID: 16280, TID: 7256), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 14 01:01:00 2023
+
+[2023/01/09 06:54:59.931, jusched.exe (PID: 16280, TID: 7256), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=410761, hours=114, days=4.75)
+actual sleep time=410761000 msecs (114:06:01) for JavaUpdate [Critical]
+
+[2023/01/09 06:54:59.963, jucheck.exe (PID: 5336, TID: 18308), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/09 06:54:59.965, jucheck.exe (PID: 5336, TID: 18308), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/09 06:55:00.072, jucheck.exe (PID: 5336, TID: 18308), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/09 06:55:00.073, jucheck.exe (PID: 5336, TID: 18308), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/09 06:55:00.073, jucheck.exe (PID: 5336, TID: 18308), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/09 06:55:00.074, jucheck.exe (PID: 5336, TID: 18308), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/09 06:55:00.085, jucheck.exe (PID: 5336, TID: 18308), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/09 06:55:01.984, jucheck.exe (PID: 5336, TID: 18308), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/09 06:55:01.987, jucheck.exe (PID: 5336, TID: 18308), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/09 06:55:01.989, jucheck.exe (PID: 5336, TID: 18308), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/09 06:55:01.989, jucheck.exe (PID: 5336, TID: 18308), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/09 06:55:02.116, jucheck.exe (PID: 5336, TID: 18308), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/09 06:55:02.117, jucheck.exe (PID: 5336, TID: 18308), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/09 06:55:02.117, jucheck.exe (PID: 5336, TID: 18308), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/09 06:55:02.119, jucheck.exe (PID: 5336, TID: 18308), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/09 20:59:53.714, jusched.exe (PID: 17896, TID: 17900), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/09 21:02:34.339, jusched.exe (PID: 18040, TID: 18044), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/09 21:07:34.537, jusched.exe (PID: 18040, TID: 18044), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/09 21:07:34.539, jusched.exe (PID: 18040, TID: 18044), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 14 01:01:00 2023
+
+[2023/01/09 21:07:34.539, jusched.exe (PID: 18040, TID: 18044), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=359606, hours=99, days=4.16)
+actual sleep time=359606000 msecs (99:53:26) for JavaUpdate [Critical]
+
+[2023/01/09 21:07:34.579, jucheck.exe (PID: 9980, TID: 12964), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/09 21:07:34.581, jucheck.exe (PID: 9980, TID: 12964), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/09 21:07:34.753, jucheck.exe (PID: 9980, TID: 12964), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/09 21:07:34.754, jucheck.exe (PID: 9980, TID: 12964), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/09 21:07:34.754, jucheck.exe (PID: 9980, TID: 12964), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/09 21:07:34.755, jucheck.exe (PID: 9980, TID: 12964), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/09 21:07:34.770, jucheck.exe (PID: 9980, TID: 12964), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/09 21:07:35.673, jucheck.exe (PID: 9980, TID: 12964), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/09 21:07:35.675, jucheck.exe (PID: 9980, TID: 12964), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/09 21:07:35.676, jucheck.exe (PID: 9980, TID: 12964), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/09 21:07:35.677, jucheck.exe (PID: 9980, TID: 12964), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/09 21:07:35.749, jucheck.exe (PID: 9980, TID: 12964), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/09 21:07:35.749, jucheck.exe (PID: 9980, TID: 12964), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/09 21:07:35.751, jucheck.exe (PID: 9980, TID: 12964), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/09 21:07:35.753, jucheck.exe (PID: 9980, TID: 12964), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/10 08:12:10.711, jusched.exe (PID: 18480, TID: 18484), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/10 08:17:10.882, jusched.exe (PID: 18480, TID: 18484), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/10 08:17:10.884, jusched.exe (PID: 18480, TID: 18484), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 14 01:01:00 2023
+
+[2023/01/10 08:17:10.885, jusched.exe (PID: 18480, TID: 18484), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=319430, hours=88, days=3.70)
+actual sleep time=319430000 msecs (88:43:50) for JavaUpdate [Critical]
+
+[2023/01/10 08:17:10.916, jucheck.exe (PID: 19248, TID: 2932), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/10 08:17:10.917, jucheck.exe (PID: 19248, TID: 2932), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/10 08:17:11.023, jucheck.exe (PID: 19248, TID: 2932), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/10 08:17:11.023, jucheck.exe (PID: 19248, TID: 2932), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/10 08:17:11.024, jucheck.exe (PID: 19248, TID: 2932), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/10 08:17:11.024, jucheck.exe (PID: 19248, TID: 2932), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/10 08:17:11.035, jucheck.exe (PID: 19248, TID: 2932), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/10 08:17:12.041, jucheck.exe (PID: 19248, TID: 2932), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/10 08:17:12.044, jucheck.exe (PID: 19248, TID: 2932), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/10 08:17:12.045, jucheck.exe (PID: 19248, TID: 2932), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/10 08:17:12.045, jucheck.exe (PID: 19248, TID: 2932), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/10 08:17:12.119, jucheck.exe (PID: 19248, TID: 2932), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/10 08:17:12.120, jucheck.exe (PID: 19248, TID: 2932), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/10 08:17:12.120, jucheck.exe (PID: 19248, TID: 2932), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/10 08:17:12.122, jucheck.exe (PID: 19248, TID: 2932), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/11 06:58:05.524, jusched.exe (PID: 19652, TID: 332), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/11 07:03:05.670, jusched.exe (PID: 19652, TID: 332), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/11 07:03:05.672, jusched.exe (PID: 19652, TID: 332), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 14 01:01:00 2023
+
+[2023/01/11 07:03:05.672, jusched.exe (PID: 19652, TID: 332), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=237475, hours=65, days=2.75)
+actual sleep time=237475000 msecs (65:57:55) for JavaUpdate [Critical]
+
+[2023/01/11 07:03:05.706, jucheck.exe (PID: 17828, TID: 2984), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/11 07:03:05.708, jucheck.exe (PID: 17828, TID: 2984), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/11 07:03:05.822, jucheck.exe (PID: 17828, TID: 2984), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/11 07:03:05.823, jucheck.exe (PID: 17828, TID: 2984), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/11 07:03:05.823, jucheck.exe (PID: 17828, TID: 2984), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/11 07:03:05.823, jucheck.exe (PID: 17828, TID: 2984), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/11 07:03:05.837, jucheck.exe (PID: 17828, TID: 2984), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/11 07:03:06.948, jucheck.exe (PID: 17828, TID: 2984), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/11 07:03:06.953, jucheck.exe (PID: 17828, TID: 2984), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/11 07:03:06.954, jucheck.exe (PID: 17828, TID: 2984), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/11 07:03:06.954, jucheck.exe (PID: 17828, TID: 2984), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/11 07:03:07.088, jucheck.exe (PID: 17828, TID: 2984), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/11 07:03:07.089, jucheck.exe (PID: 17828, TID: 2984), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/11 07:03:07.089, jucheck.exe (PID: 17828, TID: 2984), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/11 07:03:07.092, jucheck.exe (PID: 17828, TID: 2984), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/11 20:40:38.265, jusched.exe (PID: 18412, TID: 13636), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/11 20:45:38.501, jusched.exe (PID: 18412, TID: 13636), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/11 20:45:38.503, jusched.exe (PID: 18412, TID: 13636), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 14 01:01:00 2023
+
+[2023/01/11 20:45:38.503, jusched.exe (PID: 18412, TID: 13636), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=188122, hours=52, days=2.18)
+actual sleep time=188122000 msecs (52:15:22) for JavaUpdate [Critical]
+
+[2023/01/11 20:45:38.553, jucheck.exe (PID: 21024, TID: 18336), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/11 20:45:38.555, jucheck.exe (PID: 21024, TID: 18336), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/11 20:45:38.685, jucheck.exe (PID: 21024, TID: 18336), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/11 20:45:38.686, jucheck.exe (PID: 21024, TID: 18336), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/11 20:45:38.686, jucheck.exe (PID: 21024, TID: 18336), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/11 20:45:38.687, jucheck.exe (PID: 21024, TID: 18336), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/11 20:45:38.701, jucheck.exe (PID: 21024, TID: 18336), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/11 20:45:39.124, jucheck.exe (PID: 21024, TID: 18336), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/11 20:45:39.127, jucheck.exe (PID: 21024, TID: 18336), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/11 20:45:39.128, jucheck.exe (PID: 21024, TID: 18336), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/11 20:45:39.128, jucheck.exe (PID: 21024, TID: 18336), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/11 20:45:39.212, jucheck.exe (PID: 21024, TID: 18336), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/11 20:45:39.212, jucheck.exe (PID: 21024, TID: 18336), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/11 20:45:39.213, jucheck.exe (PID: 21024, TID: 18336), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/11 20:45:39.214, jucheck.exe (PID: 21024, TID: 18336), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/12 10:47:59.746, jusched.exe (PID: 5628, TID: 288), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/12 10:53:03.740, jusched.exe (PID: 5628, TID: 288), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/12 10:53:03.743, jusched.exe (PID: 5628, TID: 288), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 14 01:01:00 2023
+
+[2023/01/12 10:53:03.743, jusched.exe (PID: 5628, TID: 288), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=137277, hours=38, days=1.59)
+actual sleep time=137277000 msecs (38:07:57) for JavaUpdate [Critical]
+
+[2023/01/12 10:53:03.775, jucheck.exe (PID: 4772, TID: 17592), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/12 10:53:03.777, jucheck.exe (PID: 4772, TID: 17592), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/12 10:53:03.890, jucheck.exe (PID: 4772, TID: 17592), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/12 10:53:03.890, jucheck.exe (PID: 4772, TID: 17592), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/12 10:53:03.891, jucheck.exe (PID: 4772, TID: 17592), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/12 10:53:03.891, jucheck.exe (PID: 4772, TID: 17592), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/12 10:53:03.903, jucheck.exe (PID: 4772, TID: 17592), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/12 10:53:04.581, jucheck.exe (PID: 4772, TID: 17592), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/12 10:53:04.585, jucheck.exe (PID: 4772, TID: 17592), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/12 10:53:04.586, jucheck.exe (PID: 4772, TID: 17592), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/12 10:53:04.586, jucheck.exe (PID: 4772, TID: 17592), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/12 10:53:04.700, jucheck.exe (PID: 4772, TID: 17592), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/12 10:53:04.701, jucheck.exe (PID: 4772, TID: 17592), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/12 10:53:04.701, jucheck.exe (PID: 4772, TID: 17592), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/12 10:53:04.703, jucheck.exe (PID: 4772, TID: 17592), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/13 08:29:16.155, jusched.exe (PID: 17940, TID: 17944), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/13 08:34:16.300, jusched.exe (PID: 17940, TID: 17944), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/13 08:34:16.303, jusched.exe (PID: 17940, TID: 17944), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 14 01:01:00 2023
+
+[2023/01/13 08:34:16.304, jusched.exe (PID: 17940, TID: 17944), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 07 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=59204, hours=16, days=0.69)
+actual sleep time=59204000 msecs (16:26:44) for JavaUpdate [Critical]
+
+[2023/01/13 08:34:16.335, jucheck.exe (PID: 14844, TID: 18052), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/13 08:34:16.338, jucheck.exe (PID: 14844, TID: 18052), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/13 08:34:16.549, jucheck.exe (PID: 14844, TID: 18052), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/13 08:34:16.552, jucheck.exe (PID: 14844, TID: 18052), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/13 08:34:16.560, jucheck.exe (PID: 14844, TID: 18052), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/13 08:34:16.563, jucheck.exe (PID: 14844, TID: 18052), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/13 08:34:16.584, jucheck.exe (PID: 14844, TID: 18052), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/13 08:34:19.037, jucheck.exe (PID: 14844, TID: 18052), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/13 08:34:19.039, jucheck.exe (PID: 14844, TID: 18052), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/13 08:34:19.040, jucheck.exe (PID: 14844, TID: 18052), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/13 08:34:19.042, jucheck.exe (PID: 14844, TID: 18052), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/13 08:34:19.240, jucheck.exe (PID: 14844, TID: 18052), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/13 08:34:19.241, jucheck.exe (PID: 14844, TID: 18052), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/13 08:34:19.241, jucheck.exe (PID: 14844, TID: 18052), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/13 08:34:19.244, jucheck.exe (PID: 14844, TID: 18052), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/14 10:38:47.822, jusched.exe (PID: 10576, TID: 9452), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/14 10:43:47.854, jusched.exe (PID: 10576, TID: 9452), AllUtils.cpp:177 (logit)]
+	INFO: Time for a Java Update [Critical] check.
+
+[2023/01/14 10:43:47.855, jusched.exe (PID: 10576, TID: 9452), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/14 10:43:48.787, jusched.exe (PID: 10576, TID: 9452), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/14 10:43:48.790, jusched.exe (PID: 10576, TID: 9452), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/14 10:43:48.791, jusched.exe (PID: 10576, TID: 9452), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/14 10:43:48.791, jusched.exe (PID: 10576, TID: 9452), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/14 10:43:48.792, jusched.exe (PID: 10576, TID: 9452), AllUtils.cpp:177 (logit)]
+	INFO: No Updates available
+
+[2023/01/14 10:43:48.912, jusched.exe (PID: 10576, TID: 9452), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/14 10:43:48.913, jusched.exe (PID: 10576, TID: 9452), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Jan 15 01:01:00 2023
+
+[2023/01/14 10:43:48.913, jusched.exe (PID: 10576, TID: 9452), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate NextSchedTime=Sun Jan 15 01:01:00 2023
+JavaUpdatelastSchedTime=Sun Jan 08 01:01:00 2023
+JavaUpdatenextSchedTime=Sun Jan 15 01:01:00 2023
+JavaUpdatesleeptime (sec=51432, hours=14, days=0.60)
+actual sleep time=51432000 msecs (14:17:12) for JavaUpdate
+
+[2023/01/14 10:43:48.946, jucheck.exe (PID: 15328, TID: 21264), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/14 10:43:48.947, jucheck.exe (PID: 15328, TID: 21264), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/14 10:43:49.051, jucheck.exe (PID: 15328, TID: 21264), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/14 10:43:49.051, jucheck.exe (PID: 15328, TID: 21264), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/14 10:43:49.051, jucheck.exe (PID: 15328, TID: 21264), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/14 10:43:49.053, jucheck.exe (PID: 15328, TID: 21264), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/14 10:43:49.060, jucheck.exe (PID: 15328, TID: 21264), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/14 10:43:49.675, jucheck.exe (PID: 15328, TID: 21264), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/14 10:43:49.678, jucheck.exe (PID: 15328, TID: 21264), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/14 10:43:49.679, jucheck.exe (PID: 15328, TID: 21264), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/14 10:43:49.680, jucheck.exe (PID: 15328, TID: 21264), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/14 10:43:49.699, jucheck.exe (PID: 15328, TID: 21264), AllUtils.cpp:177 (logit)]
+	INFO: Update Descriptor Checksums DO NOT Match
+
+[2023/01/14 10:43:49.700, jucheck.exe (PID: 15328, TID: 21264), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/14 10:43:49.700, jucheck.exe (PID: 15328, TID: 21264), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/14 10:43:49.701, jucheck.exe (PID: 15328, TID: 21264), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/14 10:43:49.702, jucheck.exe (PID: 15328, TID: 21264), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/15 08:11:55.478, jusched.exe (PID: 14608, TID: 21236), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/15 08:16:55.537, jusched.exe (PID: 14608, TID: 21236), AllUtils.cpp:177 (logit)]
+	INFO: Time for a Java Update check.
+
+[2023/01/15 08:16:55.540, jusched.exe (PID: 14608, TID: 21236), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/15 08:16:56.045, jusched.exe (PID: 14608, TID: 21236), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/15 08:16:56.047, jusched.exe (PID: 14608, TID: 21236), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/15 08:16:56.048, jusched.exe (PID: 14608, TID: 21236), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/15 08:16:56.048, jusched.exe (PID: 14608, TID: 21236), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/15 08:16:56.050, jusched.exe (PID: 14608, TID: 21236), AllUtils.cpp:177 (logit)]
+	INFO: No Updates available
+
+[2023/01/15 08:16:56.168, jusched.exe (PID: 14608, TID: 21236), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/15 08:16:56.170, jusched.exe (PID: 14608, TID: 21236), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 21 01:01:00 2023
+
+[2023/01/15 08:16:56.170, jusched.exe (PID: 14608, TID: 21236), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=492244, hours=136, days=5.70)
+actual sleep time=492244000 msecs (136:44:04) for JavaUpdate [Critical]
+
+[2023/01/15 08:16:56.203, jucheck.exe (PID: 18668, TID: 3840), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/15 08:16:56.206, jucheck.exe (PID: 18668, TID: 3840), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/15 08:16:56.323, jucheck.exe (PID: 18668, TID: 3840), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/15 08:16:56.324, jucheck.exe (PID: 18668, TID: 3840), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/15 08:16:56.324, jucheck.exe (PID: 18668, TID: 3840), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/15 08:16:56.324, jucheck.exe (PID: 18668, TID: 3840), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/15 08:16:56.340, jucheck.exe (PID: 18668, TID: 3840), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/15 08:16:57.564, jucheck.exe (PID: 18668, TID: 3840), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/15 08:16:57.567, jucheck.exe (PID: 18668, TID: 3840), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/15 08:16:57.569, jucheck.exe (PID: 18668, TID: 3840), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/15 08:16:57.570, jucheck.exe (PID: 18668, TID: 3840), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/10e8cce67c7843478f41411b7003171c/au-descriptor-1.8.0_351-b10.xml
+[2023/01/15 08:16:57.975, jucheck.exe (PID: 18668, TID: 3840), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/15 08:16:57.976, jucheck.exe (PID: 18668, TID: 3840), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/15 08:16:57.977, jucheck.exe (PID: 18668, TID: 3840), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/15 08:16:57.979, jucheck.exe (PID: 18668, TID: 3840), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/15 22:36:49.240, jusched.exe (PID: 18420, TID: 18424), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/15 22:41:49.371, jusched.exe (PID: 18420, TID: 18424), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/15 22:41:49.372, jusched.exe (PID: 18420, TID: 18424), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 21 01:01:00 2023
+
+[2023/01/15 22:41:49.374, jusched.exe (PID: 18420, TID: 18424), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=440351, hours=122, days=5.10)
+actual sleep time=440351000 msecs (122:19:11) for JavaUpdate [Critical]
+
+[2023/01/15 22:41:49.395, jucheck.exe (PID: 6092, TID: 5824), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/15 22:41:49.396, jucheck.exe (PID: 6092, TID: 5824), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/15 22:41:49.467, jucheck.exe (PID: 6092, TID: 5824), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/15 22:41:49.468, jucheck.exe (PID: 6092, TID: 5824), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/15 22:41:49.468, jucheck.exe (PID: 6092, TID: 5824), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/15 22:41:49.468, jucheck.exe (PID: 6092, TID: 5824), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/15 22:41:49.477, jucheck.exe (PID: 6092, TID: 5824), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/15 22:41:49.508, jucheck.exe (PID: 6092, TID: 5824), UpdateCommon.cpp:244 (GetXmlFile)]
+	ERROR: Exception with message 'NetUtils.cpp(162) at HttpConnection::connect(): HttpSendRequest failed: system error 12007 (The server name or address could not be resolved)' caught
+[2023/01/15 22:41:49.509, jucheck.exe (PID: 6092, TID: 5824), UpdateManager.cpp:115 (CUpdateManager::CheckXmlFiles)]
+	INFO: New Update Descriptor URL Detected
+[2023/01/16 06:55:00.097, jusched.exe (PID: 19564, TID: 19568), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/16 07:00:00.112, jusched.exe (PID: 19564, TID: 19568), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 21 01:01:00 2023
+
+[2023/01/16 07:00:00.116, jusched.exe (PID: 19564, TID: 19568), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=410460, hours=114, days=4.75)
+actual sleep time=410460000 msecs (114:01:00) for JavaUpdate [Critical]
+
+[2023/01/16 20:00:09.442, jusched.exe (PID: 19896, TID: 19872), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/16 20:28:36.537, jusched.exe (PID: 19896, TID: 19872), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 21 01:01:00 2023
+
+[2023/01/16 20:28:36.538, jusched.exe (PID: 19896, TID: 19872), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=361944, hours=100, days=4.19)
+actual sleep time=361944000 msecs (100:32:24) for JavaUpdate [Critical]
+
+[2023/01/17 10:13:10.613, jusched.exe (PID: 3300, TID: 16116), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/17 10:18:10.629, jusched.exe (PID: 3300, TID: 16116), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 21 01:01:00 2023
+
+[2023/01/17 10:18:10.630, jusched.exe (PID: 3300, TID: 16116), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=312170, hours=86, days=3.61)
+actual sleep time=312170000 msecs (86:42:50) for JavaUpdate [Critical]
+
+[2023/01/19 09:42:04.694, jusched.exe (PID: 16220, TID: 17428), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/19 09:47:04.720, jusched.exe (PID: 16220, TID: 17428), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 21 01:01:00 2023
+
+[2023/01/19 09:47:04.720, jusched.exe (PID: 16220, TID: 17428), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 14 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=141236, hours=39, days=1.63)
+actual sleep time=141236000 msecs (39:13:56) for JavaUpdate [Critical]
+
+[2023/01/21 17:00:52.856, jusched.exe (PID: 2636, TID: 11284), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/21 18:11:35.604, jusched.exe (PID: 2636, TID: 11284), AllUtils.cpp:177 (logit)]
+	INFO: Time for a Java Update [Critical] check.
+
+[2023/01/21 18:11:35.606, jusched.exe (PID: 2636, TID: 11284), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/21 18:11:36.221, jusched.exe (PID: 2636, TID: 11284), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/21 18:11:36.222, jusched.exe (PID: 2636, TID: 11284), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/21 18:11:36.222, jusched.exe (PID: 2636, TID: 11284), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/21 18:11:36.223, jusched.exe (PID: 2636, TID: 11284), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/0ae14417abb444ebb02b9815e2103550/au-descriptor-1.8.0_361-b09.xml
+[2023/01/21 18:11:36.284, jusched.exe (PID: 2636, TID: 11284), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/21 18:11:36.284, jusched.exe (PID: 2636, TID: 11284), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/21 18:11:36.285, jusched.exe (PID: 2636, TID: 11284), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/21 18:11:36.286, jusched.exe (PID: 2636, TID: 11284), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/21 18:11:36.476, jusched.exe (PID: 2636, TID: 11284), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/21 18:11:36.476, jusched.exe (PID: 2636, TID: 11284), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate : LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sun Jan 22 01:01:00 2023
+
+[2023/01/21 18:11:36.477, jusched.exe (PID: 2636, TID: 11284), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate NextSchedTime=Sun Jan 22 01:01:00 2023
+JavaUpdatelastSchedTime=Sun Jan 15 01:01:00 2023
+JavaUpdatenextSchedTime=Sun Jan 22 01:01:00 2023
+JavaUpdatesleeptime (sec=24564, hours=6, days=0.28)
+actual sleep time=24564000 msecs (6:49:24) for JavaUpdate
+
+[2023/01/21 18:11:36.508, jucheck.exe (PID: 17356, TID: 17388), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/21 18:11:36.510, jucheck.exe (PID: 17356, TID: 17388), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/21 18:11:36.609, jucheck.exe (PID: 17356, TID: 17388), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/21 18:11:36.610, jucheck.exe (PID: 17356, TID: 17388), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/21 18:11:36.610, jucheck.exe (PID: 17356, TID: 17388), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/21 18:11:36.610, jucheck.exe (PID: 17356, TID: 17388), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/21 18:11:36.617, jucheck.exe (PID: 17356, TID: 17388), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/21 18:11:36.882, jucheck.exe (PID: 17356, TID: 17388), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/21 18:11:36.884, jucheck.exe (PID: 17356, TID: 17388), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/21 18:11:36.884, jucheck.exe (PID: 17356, TID: 17388), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/21 18:11:36.884, jucheck.exe (PID: 17356, TID: 17388), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/0ae14417abb444ebb02b9815e2103550/au-descriptor-1.8.0_361-b09.xml
+[2023/01/21 18:11:36.928, jucheck.exe (PID: 17356, TID: 17388), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/21 18:11:36.929, jucheck.exe (PID: 17356, TID: 17388), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/21 18:11:36.929, jucheck.exe (PID: 17356, TID: 17388), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/21 18:11:36.931, jucheck.exe (PID: 17356, TID: 17388), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/22 09:40:35.174, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/22 09:45:35.401, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/22 09:45:35.402, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate : Current time is <4 days past last scheduled time, Setting sleeptime to next 1hr window (7 hour delay): Sun Jan 22 15:01:00 2023
+
+[2023/01/22 09:45:35.403, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate NextSchedTime=Sun Jan 29 01:01:00 2023
+JavaUpdatelastSchedTime=Sun Jan 22 01:01:00 2023
+JavaUpdatenextSchedTime=Sun Jan 29 01:01:00 2023
+JavaUpdatesleeptime (sec=18925, hours=5, days=0.22)
+actual sleep time=18925000 msecs (5:15:25) for JavaUpdate
+
+[2023/01/22 09:45:35.436, jucheck.exe (PID: 4200, TID: 10104), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/22 09:45:35.438, jucheck.exe (PID: 4200, TID: 10104), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/22 09:45:35.540, jucheck.exe (PID: 4200, TID: 10104), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/22 09:45:35.541, jucheck.exe (PID: 4200, TID: 10104), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/22 09:45:35.541, jucheck.exe (PID: 4200, TID: 10104), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/22 09:45:35.542, jucheck.exe (PID: 4200, TID: 10104), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/22 09:45:35.554, jucheck.exe (PID: 4200, TID: 10104), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/22 09:45:36.419, jucheck.exe (PID: 4200, TID: 10104), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/22 09:45:36.422, jucheck.exe (PID: 4200, TID: 10104), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/22 09:45:36.423, jucheck.exe (PID: 4200, TID: 10104), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/22 09:45:36.423, jucheck.exe (PID: 4200, TID: 10104), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/0ae14417abb444ebb02b9815e2103550/au-descriptor-1.8.0_361-b09.xml
+[2023/01/22 09:45:36.594, jucheck.exe (PID: 4200, TID: 10104), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/22 09:45:36.595, jucheck.exe (PID: 4200, TID: 10104), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/22 09:45:36.595, jucheck.exe (PID: 4200, TID: 10104), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/22 09:45:36.597, jucheck.exe (PID: 4200, TID: 10104), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/23 10:02:28.006, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: Timeout occured.  Run Java update now.
+
+[2023/01/23 10:02:28.010, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: Time for a Java Update check.
+
+[2023/01/23 10:02:28.016, jusched.exe (PID: 18968, TID: 18972), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/23 10:02:28.360, jusched.exe (PID: 18968, TID: 18972), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/23 10:02:28.361, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/23 10:02:28.363, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/23 10:02:28.363, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/0ae14417abb444ebb02b9815e2103550/au-descriptor-1.8.0_361-b09.xml
+[2023/01/23 10:02:28.364, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: No Updates available
+
+[2023/01/23 10:02:28.365, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 28 01:01:00 2023
+
+[2023/01/23 10:02:28.366, jusched.exe (PID: 18968, TID: 18972), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=399512, hours=110, days=4.62)
+actual sleep time=399512000 msecs (110:58:32) for JavaUpdate [Critical]
+
+[2023/01/24 09:13:41.203, jusched.exe (PID: 1784, TID: 20992), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/24 09:18:44.534, jusched.exe (PID: 1784, TID: 20992), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/24 09:18:44.536, jusched.exe (PID: 1784, TID: 20992), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 28 01:01:00 2023
+
+[2023/01/24 09:18:44.537, jusched.exe (PID: 1784, TID: 20992), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=315736, hours=87, days=3.65)
+actual sleep time=315736000 msecs (87:42:16) for JavaUpdate [Critical]
+
+[2023/01/24 09:18:44.568, jucheck.exe (PID: 21652, TID: 23280), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/24 09:18:44.569, jucheck.exe (PID: 21652, TID: 23280), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/24 09:18:44.682, jucheck.exe (PID: 21652, TID: 23280), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/24 09:18:44.682, jucheck.exe (PID: 21652, TID: 23280), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/24 09:18:44.683, jucheck.exe (PID: 21652, TID: 23280), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/24 09:18:44.684, jucheck.exe (PID: 21652, TID: 23280), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 09:18:44.692, jucheck.exe (PID: 21652, TID: 23280), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/24 09:18:45.396, jucheck.exe (PID: 21652, TID: 23280), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 09:18:45.398, jucheck.exe (PID: 21652, TID: 23280), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/24 09:18:45.399, jucheck.exe (PID: 21652, TID: 23280), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/24 09:18:45.399, jucheck.exe (PID: 21652, TID: 23280), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/0ae14417abb444ebb02b9815e2103550/au-descriptor-1.8.0_361-b09.xml
+[2023/01/24 09:18:45.414, jucheck.exe (PID: 21652, TID: 23280), AllUtils.cpp:177 (logit)]
+	INFO: Update Descriptor Checksums DO NOT Match
+
+[2023/01/24 09:18:45.415, jucheck.exe (PID: 21652, TID: 23280), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 09:18:45.416, jucheck.exe (PID: 21652, TID: 23280), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/24 09:18:45.416, jucheck.exe (PID: 21652, TID: 23280), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 09:18:45.417, jucheck.exe (PID: 21652, TID: 23280), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/24 11:42:31.996, jusched.exe (PID: 18416, TID: 18420), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/24 11:47:32.062, jusched.exe (PID: 18416, TID: 18420), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/24 11:47:32.063, jusched.exe (PID: 18416, TID: 18420), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 28 01:01:00 2023
+
+[2023/01/24 11:47:32.063, jusched.exe (PID: 18416, TID: 18420), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=306808, hours=85, days=3.55)
+actual sleep time=306808000 msecs (85:13:28) for JavaUpdate [Critical]
+
+[2023/01/24 11:47:32.076, jucheck.exe (PID: 9680, TID: 9652), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/24 11:47:32.077, jucheck.exe (PID: 9680, TID: 9652), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/24 11:47:32.134, jucheck.exe (PID: 9680, TID: 9652), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/24 11:47:32.134, jucheck.exe (PID: 9680, TID: 9652), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/24 11:47:32.134, jucheck.exe (PID: 9680, TID: 9652), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/24 11:47:32.136, jucheck.exe (PID: 9680, TID: 9652), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 11:47:32.140, jucheck.exe (PID: 9680, TID: 9652), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/24 11:47:32.359, jucheck.exe (PID: 9680, TID: 9652), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 11:47:32.361, jucheck.exe (PID: 9680, TID: 9652), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/24 11:47:32.361, jucheck.exe (PID: 9680, TID: 9652), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/24 11:47:32.361, jucheck.exe (PID: 9680, TID: 9652), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/0ae14417abb444ebb02b9815e2103550/au-descriptor-1.8.0_361-b09.xml
+[2023/01/24 11:47:32.408, jucheck.exe (PID: 9680, TID: 9652), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 11:47:32.408, jucheck.exe (PID: 9680, TID: 9652), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/24 11:47:32.408, jucheck.exe (PID: 9680, TID: 9652), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 11:47:32.409, jucheck.exe (PID: 9680, TID: 9652), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/24 12:38:06.206, jusched.exe (PID: 19280, TID: 19284), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/24 12:43:07.517, jusched.exe (PID: 19280, TID: 19284), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/24 12:43:07.526, jusched.exe (PID: 19280, TID: 19284), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 28 01:01:00 2023
+
+[2023/01/24 12:43:07.531, jusched.exe (PID: 19280, TID: 19284), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=303473, hours=84, days=3.51)
+actual sleep time=303473000 msecs (84:17:53) for JavaUpdate [Critical]
+
+[2023/01/24 12:43:07.806, jucheck.exe (PID: 16024, TID: 19628), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/24 12:43:07.822, jucheck.exe (PID: 16024, TID: 19628), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/24 12:43:08.349, jucheck.exe (PID: 16024, TID: 19628), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/24 12:43:08.349, jucheck.exe (PID: 16024, TID: 19628), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/24 12:43:08.350, jucheck.exe (PID: 16024, TID: 19628), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/24 12:43:08.350, jucheck.exe (PID: 16024, TID: 19628), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 12:43:08.361, jucheck.exe (PID: 16024, TID: 19628), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/24 12:43:08.841, jucheck.exe (PID: 16024, TID: 19628), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 12:43:08.843, jucheck.exe (PID: 16024, TID: 19628), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/24 12:43:08.844, jucheck.exe (PID: 16024, TID: 19628), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/24 12:43:08.844, jucheck.exe (PID: 16024, TID: 19628), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/0ae14417abb444ebb02b9815e2103550/au-descriptor-1.8.0_361-b09.xml
+[2023/01/24 12:43:08.960, jucheck.exe (PID: 16024, TID: 19628), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 12:43:08.960, jucheck.exe (PID: 16024, TID: 19628), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/24 12:43:08.961, jucheck.exe (PID: 16024, TID: 19628), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 12:43:08.962, jucheck.exe (PID: 16024, TID: 19628), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/24 14:00:34.128, jusched.exe (PID: 18904, TID: 18908), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/24 14:05:34.272, jusched.exe (PID: 18904, TID: 18908), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/24 14:05:34.274, jusched.exe (PID: 18904, TID: 18908), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 28 01:01:00 2023
+
+[2023/01/24 14:05:34.274, jusched.exe (PID: 18904, TID: 18908), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=298526, hours=82, days=3.46)
+actual sleep time=298526000 msecs (82:55:26) for JavaUpdate [Critical]
+
+[2023/01/24 14:05:34.304, jucheck.exe (PID: 7560, TID: 2904), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/24 14:05:34.305, jucheck.exe (PID: 7560, TID: 2904), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/24 14:05:34.418, jucheck.exe (PID: 7560, TID: 2904), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/24 14:05:34.419, jucheck.exe (PID: 7560, TID: 2904), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/24 14:05:34.419, jucheck.exe (PID: 7560, TID: 2904), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/24 14:05:34.420, jucheck.exe (PID: 7560, TID: 2904), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 14:05:34.433, jucheck.exe (PID: 7560, TID: 2904), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/24 14:05:35.218, jucheck.exe (PID: 7560, TID: 2904), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 14:05:35.221, jucheck.exe (PID: 7560, TID: 2904), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/24 14:05:35.221, jucheck.exe (PID: 7560, TID: 2904), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/24 14:05:35.222, jucheck.exe (PID: 7560, TID: 2904), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/0ae14417abb444ebb02b9815e2103550/au-descriptor-1.8.0_361-b09.xml
+[2023/01/24 14:05:35.354, jucheck.exe (PID: 7560, TID: 2904), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 14:05:35.356, jucheck.exe (PID: 7560, TID: 2904), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/24 14:05:35.356, jucheck.exe (PID: 7560, TID: 2904), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 14:05:35.358, jucheck.exe (PID: 7560, TID: 2904), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/24 16:09:28.850, jusched.exe (PID: 19712, TID: 19716), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/24 16:14:29.011, jusched.exe (PID: 19712, TID: 19716), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/24 16:14:29.013, jusched.exe (PID: 19712, TID: 19716), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 28 01:01:00 2023
+
+[2023/01/24 16:14:29.014, jusched.exe (PID: 19712, TID: 19716), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=290791, hours=80, days=3.37)
+actual sleep time=290791000 msecs (80:46:31) for JavaUpdate [Critical]
+
+[2023/01/24 16:14:29.047, jucheck.exe (PID: 19720, TID: 5996), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/24 16:14:29.049, jucheck.exe (PID: 19720, TID: 5996), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/24 16:14:29.163, jucheck.exe (PID: 19720, TID: 5996), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/24 16:14:29.164, jucheck.exe (PID: 19720, TID: 5996), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/24 16:14:29.164, jucheck.exe (PID: 19720, TID: 5996), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/24 16:14:29.165, jucheck.exe (PID: 19720, TID: 5996), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 16:14:29.176, jucheck.exe (PID: 19720, TID: 5996), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/24 16:14:29.584, jucheck.exe (PID: 19720, TID: 5996), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 16:14:29.587, jucheck.exe (PID: 19720, TID: 5996), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/24 16:14:29.588, jucheck.exe (PID: 19720, TID: 5996), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/24 16:14:29.589, jucheck.exe (PID: 19720, TID: 5996), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/0ae14417abb444ebb02b9815e2103550/au-descriptor-1.8.0_361-b09.xml
+[2023/01/24 16:14:29.663, jucheck.exe (PID: 19720, TID: 5996), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 16:14:29.664, jucheck.exe (PID: 19720, TID: 5996), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/24 16:14:29.664, jucheck.exe (PID: 19720, TID: 5996), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 16:14:29.666, jucheck.exe (PID: 19720, TID: 5996), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
+[2023/01/24 16:45:28.582, jusched.exe (PID: 18716, TID: 18720), AllUtils.cpp:177 (logit)]
+	INFO: **************** Running jusched ****************
+
+[2023/01/24 16:50:28.820, jusched.exe (PID: 18716, TID: 18720), AllUtils.cpp:177 (logit)]
+	INFO: Started UpdateChecker process Successfully:C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+
+[2023/01/24 16:50:28.822, jusched.exe (PID: 18716, TID: 18720), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate  [Critical] :  LastFinishTime is after LastScheduledTime, sleeping until next schedule Time: Sat Jan 28 01:01:00 2023
+
+[2023/01/24 16:50:28.822, jusched.exe (PID: 18716, TID: 18720), AllUtils.cpp:177 (logit)]
+	INFO: JavaUpdate [Critical] NextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]lastSchedTime=Sat Jan 21 01:01:00 2023
+JavaUpdate [Critical]nextSchedTime=Sat Jan 28 01:01:00 2023
+JavaUpdate [Critical]sleeptime (sec=288632, hours=80, days=3.34)
+actual sleep time=288632000 msecs (80:10:32) for JavaUpdate [Critical]
+
+[2023/01/24 16:50:28.863, jucheck.exe (PID: 11920, TID: 13976), UpdateConf.cpp:1542 (UpdateSSV)]
+	INFO: UpdateSSV() - Begin Update
+[2023/01/24 16:50:28.866, jucheck.exe (PID: 11920, TID: 13976), Executor.cpp:147 (Executor::startExecution)]
+	INFO: Executor.exec(): "C:\Program Files\Java\jre1.8.0_51\bin\javaws.exe" -SSVBaselineUpdate
+[2023/01/24 16:50:28.984, jucheck.exe (PID: 11920, TID: 13976), Executor.cpp:181 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): WaitForSingleObject exited with code 0
+[2023/01/24 16:50:28.985, jucheck.exe (PID: 11920, TID: 13976), Executor.cpp:195 (Executor::finishExecution)]
+	INFO: Executor.finishExecution(): ExitCode = 0
+[2023/01/24 16:50:28.985, jucheck.exe (PID: 11920, TID: 13976), UpdateConf.cpp:1579 (UpdateSSV)]
+	INFO: UpdateSSV() - Update Successful
+[2023/01/24 16:50:28.986, jucheck.exe (PID: 11920, TID: 13976), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 16:50:29.001, jucheck.exe (PID: 11920, TID: 13976), UpdateCommon.cpp:713 (GetVersionXmlFileURL)]
+	INFO: Versions to check: 
+  - 1.8.0_51-b16
+
+[2023/01/24 16:50:29.333, jucheck.exe (PID: 11920, TID: 13976), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 16:50:29.336, jucheck.exe (PID: 11920, TID: 13976), AllUtils.cpp:177 (logit)]
+	INFO: No cntry-lookup tag in map.xml
+[2023/01/24 16:50:29.337, jucheck.exe (PID: 11920, TID: 13976), AllUtils.cpp:177 (logit)]
+	INFO: OVERRIDE SYSTEM VALUE==0:OS:10.0,Arch:amd64,Version:1.8.0_51-b16,Locale:en,Cntry:YY
+
+[2023/01/24 16:50:29.337, jucheck.exe (PID: 11920, TID: 13976), AllUtils.cpp:177 (logit)]
+	INFO: https://javadl-esd-secure.oracle.com/update/1.8.0/0ae14417abb444ebb02b9815e2103550/au-descriptor-1.8.0_361-b09.xml
+[2023/01/24 16:50:29.383, jucheck.exe (PID: 11920, TID: 13976), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateStringKey was called with a NULL value for the key, so defaulting to trying jucheck key
+[2023/01/24 16:50:29.383, jucheck.exe (PID: 11920, TID: 13976), AllUtils.cpp:177 (logit)]
+	INFO: Saving Update Descriptor XML Data
+
+[2023/01/24 16:50:29.384, jucheck.exe (PID: 11920, TID: 13976), Locales.cpp:317 (Locale::preferredLanguages)]
+	INFO: PreferredUILanguages: Vista+
+[2023/01/24 16:50:29.386, jucheck.exe (PID: 11920, TID: 13976), AllUtils.cpp:177 (logit)]
+	INFO: SetJavaUpdateDwordKey was called with a NULL for key, so trying jucheck location
