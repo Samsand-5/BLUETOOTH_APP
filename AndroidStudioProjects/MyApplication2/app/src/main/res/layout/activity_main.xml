@@ -1,145 +1,108 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
     tools:context=".MainActivity">
-
-    <LinearLayout
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="WELCOME TO FBUDDY"
+    android:gravity="center"
+    android:layout_marginBottom="56dp"
+    android:layout_marginLeft="24dp"
+    android:layout_marginRight="24dp"
+    android:textSize="32dp"
+    android:textColor="@color/purple_500"
+    android:textAlignment="center"
+    />
+    <TextView
+        android:id="@+id/status"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        >
-
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:orientation="vertical">
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:fontFamily="sans-serif-medium"
-                android:gravity="center"
-                android:padding="16dp"
-                android:text="Team A"
-                android:textColor="#616161"
-                android:textSize="14sp" />
-
-            <TextView
-                android:id="@+id/team_a_score"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:fontFamily="sans-serif-light"
-                android:gravity="center"
-                android:paddingBottom="24dp"
-                android:text="0"
-                android:textColor="#000000"
-                android:textSize="56sp" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="8dp"
-                android:layout_marginLeft="24dp"
-                android:layout_marginRight="24dp"
-                android:onClick="addThreeForTeamA"
-                android:text="+3 Points"
-                tools:ignore="OnClick" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="8dp"
-                android:layout_marginLeft="24dp"
-                android:layout_marginRight="24dp"
-                android:onClick="addTwoForTeamA"
-                android:text="+2 Points"
-                tools:ignore="OnClick" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="8dp"
-                android:layout_marginLeft="24dp"
-                android:layout_marginRight="24dp"
-                android:onClick="addOneForTeamA"
-                android:text="Free throw"
-                tools:ignore="OnClick" />
-        </LinearLayout>
-
-        <View
-            android:layout_width="1dp"
-            android:layout_height="match_parent"
-            android:layout_marginTop="16dp"
-            android:background="@android:color/darker_gray" />
-
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:orientation="vertical">
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:fontFamily="sans-serif-medium"
-                android:gravity="center"
-                android:padding="16dp"
-                android:text="Team B"
-                android:textColor="#616161"
-                android:textSize="14sp" />
-
-            <TextView
-                android:id="@+id/team_b_score"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:fontFamily="sans-serif-light"
-                android:gravity="center"
-                android:paddingBottom="24dp"
-                android:text="0"
-                android:textColor="#000000"
-                android:textSize="56sp" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="8dp"
-                android:layout_marginLeft="24dp"
-                android:layout_marginRight="24dp"
-                android:onClick="addThreeForTeamB"
-                android:text="+3 Points"
-                tools:ignore="OnClick" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="8dp"
-                android:layout_marginLeft="22dp"
-                android:layout_marginRight="22dp"
-                android:onClick="addTwoForTeamB"
-                android:text="+2 Points"
-                tools:ignore="OnClick" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="8dp"
-                android:layout_marginLeft="22dp"
-                android:layout_marginRight="22dp"
-                android:onClick="addOneForTeamB"
-                android:text="Free throw"
-                tools:ignore="OnClick" />
-        </LinearLayout>
-    </LinearLayout>
+        android:text=""
+        android:gravity="center"
+        android:layout_marginBottom="56dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:textSize="21dp"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        />
 
     <Button
-        android:layout_width="wrap_content"
+        android:id="@+id/onbtn"
+        android:minWidth="200dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="32dp"
-        android:onClick="resetScore"
-        android:text="Reset"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="24dp"
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+        android:layout_marginRight="24dp"
+        android:paddingLeft="5dp"
+        android:onClick="TURNON"
+        android:text="TURN ON"
+        android:clickable="true"
         tools:ignore="OnClick" />
 
-</RelativeLayout>
+    <Button
+        android:id="@+id/offbtn"
+        android:minWidth="200dp"
+        android:background="@color/teal_700"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:paddingLeft="5dp"
+        android:clickable="true"
+        android:onClick="TURNOff"
+        android:text="TURN Off"
+        tools:ignore="OnClick" />
+    <Button
+        android:id="@+id/disco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minWidth="200dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:paddingLeft="5dp"
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+        android:clickable="true"
+        android:onClick="DISCOVARABLE"
+        android:text="DISCOVARABLE"
+        tools:ignore="OnClick" />
+
+    <Button
+        android:id="@+id/paired"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="8dp"
+        android:background="@color/teal_700"
+        android:clickable="true"
+        android:minWidth="200dp"
+        android:onClick="PAIREDDEVICES"
+        android:paddingLeft="5dp"
+        android:text="GET PAIRED DEVICES"
+        tools:ignore="OnClick" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minWidth="200dp"
+        android:id="@+id/pairedtv"
+        android:text=""
+        android:textColor="#000"
+        android:textSize="25dp"/>
+
+
+
+</LinearLayout>
